@@ -71,7 +71,7 @@ def get_video_id(api_key, playlist_id):
 
 
 video_url = "https://www.youtube.com/watch?v=XXYlFuWEuKI&list=RDQMgEzdN5RuCXE&start_radio=1&ab_channel=TheWeekndVEVO"
-api_key = "AIzaSyA7G8WsdPw5kgLAPmWG8nlE-KbrDOnPJvM"
+api_key = ""
 playlist_id = "PLBGpyGDMhIZP9l_TaPWzB1aIfdBnJTy5i"
 
 video_ids = get_video_id(api_key, playlist_id)
