@@ -60,8 +60,9 @@ def get_video_id(api_key, playlist_id):
     response = requests.get(url)
     data = response.json()
     
-    #print the JSON response
-    #print(data)
+    if 'error' in data:
+        print(f"Error: {data['error']['message']}")
+        return []
     
     #extract the video IDs from the response
     video_ids = [item['contentDetails']['videoId'] for item in data['items']]
@@ -71,7 +72,7 @@ def get_video_id(api_key, playlist_id):
 
 video_url = "https://www.youtube.com/watch?v=XXYlFuWEuKI&list=RDQMgEzdN5RuCXE&start_radio=1&ab_channel=TheWeekndVEVO"
 api_key = "AIzaSyA7G8WsdPw5kgLAPmWG8nlE-KbrDOnPJvM"
-playlist_id = "RDQMgEzdN5RuCXE"
+playlist_id = "PLBGpyGDMhIZP9l_TaPWzB1aIfdBnJTy5i"
 
 video_ids = get_video_id(api_key, playlist_id)
 print(video_ids)
@@ -80,6 +81,6 @@ for item in video_ids:
     print(item)
     transcript = get_transcript(item)
     if transcript is not None:
-        with open(f"transcript_{item}.txt", "w",encoding='utf-8') as f:
+        with open(f"transcripts/transcript_{item}.txt", "w",encoding='utf-8') as f:
             f.write(transcript)
     
