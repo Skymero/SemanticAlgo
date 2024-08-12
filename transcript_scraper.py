@@ -2,6 +2,24 @@ from youtube_transcript_api import YouTubeTranscriptApi
 import requests
 from bs4 import BeautifulSoup
 from xml.etree.ElementTree import ParseError
+# from translate import Translator
+
+def get_languages(video_id):
+    url = f'https://www.googleapis.com/youtube/v3/captions?part=id,snippet&videoId={video_id}&key={api_key}'
+    response = requests.get(url)
+    data = response.json()
+
+    print(data)
+    if 'error' in data:
+        print(f"Error: {data['error']['message']}")
+        return []
+    
+    #print(data['items'][0]['snippet']['language'])
+        
+    language = data['items'][0]['snippet']['language']    
+    
+    return language
+    
 
 
 def has_english_transcript(video_id):
@@ -42,11 +60,23 @@ def get_transcript(video_id):
             for item in textList:
                 transcriptString += item + " "
 
-            return transcriptString
+            return transcriptString, True, 'en'
         
         else:
             print(f"Skipping video {video_id}: No English transcript available")
-            return None
+            
+            lan = get_languages(video_id) 
+            srt = YouTubeTranscriptApi.get_transcript(video_id, languages=[lan])
+            textList = []
+            for i in srt:
+                textList.append(i['text'])
+
+            transcriptString = ""
+            for item in textList:
+                transcriptString += item + " "
+
+            return transcriptString, False, lan
+            
     except ParseError as e:
         print(f"Error parsing XML data for video {video_id}: {e}")
         return None
@@ -70,17 +100,39 @@ def get_video_id(api_key, playlist_id):
     return video_ids
 
 
-video_url = "https://www.youtube.com/watch?v=XXYlFuWEuKI&list=RDQMgEzdN5RuCXE&start_radio=1&ab_channel=TheWeekndVEVO"
-api_key = ""
+api_key = "AIzaSyA7G8WsdPw5kgLAPmWG8nlE-KbrDOnPJvM"
 playlist_id = "PLBGpyGDMhIZP9l_TaPWzB1aIfdBnJTy5i"
 
 video_ids = get_video_id(api_key, playlist_id)
-print(video_ids)
+#print(video_ids)
 
 for item in video_ids:
-    print(item)
-    transcript = get_transcript(item)
-    if transcript is not None:
+    #print(item)
+    transcript, flag, language = get_transcript(item)
+    if flag is True:
         with open(f"transcripts/transcript_{item}.txt", "w",encoding='utf-8') as f:
             f.write(transcript)
+    else:
+        continue
+        # with open(f"transcripts/transcript_{item}.txt", "w",encoding='utf-8') as f:
+        #     f.write(transcript)
+        #     f.close()
+        
+        
+        # with open(f"transcripts/transcript_{item}.txt", "r",encoding='utf-8') as f:
+        #     text = f.read()
+            
+        # src_lang = language
+        # dest_lang = 'en'
+        # translator = Translator(from_lang=src_lang, to_lang=dest_lang)
+        # translation = translator.translate(text)
+        
+        # with open(f"transcripts/transcript_{item}_translated.txt", "w",encoding='utf-8') as file:
+        #     file.write(translation)
+                
+            
+            
+            
+        
+        
     
