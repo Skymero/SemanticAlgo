@@ -1,0 +1,507 @@
+Entity POS count: 1
+Entity: Akira
+Entity POS: ['PROPN']
+Previous Word: is | POS: AUX 
+Next Word: . | POS: PUNCT 
+Context: is Akira.
+
+Entity POS count: 1
+Entity: Tokyo
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: Everything starts
+with a mysterious explosion in Tokyo, and it leads to this era of aggressive
+rebuilding And the birth of an artificial megacity
+in the middle of Tokyo bay, Neo Tokyo,
+which would be right about there.
+
+Entity POS count: 1
+Entity: Neo
+Entity POS: ['PROPN']
+Previous Word: of | POS: ADP 
+Next Word: 
+ | POS: SPACE 
+Context: I want to talk about the origin of Neo
+Tokyo and the story of three different people,
+separated by time and space, whose visions somehow led to the creation
+of this incredible world.
+
+Entity POS count: 1
+Entity: LG
+Entity POS: ['PROPN']
+Previous Word: by | POS: ADP 
+Next Word: the | POS: DET 
+Context: a portion of this video sponsored by LG the creator of Akira, Katsuhiro
+Otomo, was born in Tohoku, which is a remote scenic region
+in the northeast of Japan.
+
+Entity POS count: 1
+Entity: Katsuhiro
+Entity POS: ['PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: 
+ | POS: SPACE 
+Context: a portion of this video sponsored by LG the creator of Akira, Katsuhiro
+Otomo, was born in Tohoku, which is a remote scenic region
+in the northeast of Japan.
+
+Entity POS count: 1
+Entity: Tohoku
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: a portion of this video sponsored by LG the creator of Akira, Katsuhiro
+Otomo, was born in Tohoku, which is a remote scenic region
+in the northeast of Japan.
+
+Entity POS count: 1
+Entity: Japan
+Entity POS: ['PROPN']
+Previous Word: of | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: a portion of this video sponsored by LG the creator of Akira, Katsuhiro
+Otomo, was born in Tohoku, which is a remote scenic region
+in the northeast of Japan.
+
+Entity POS count: 1
+Entity: Osaka
+Entity POS: ['PROPN']
+Previous Word: and | POS: CCONJ 
+Next Word: . | POS: PUNCT 
+Context: Especially in places like Tokyo and Osaka.
+
+Entity POS count: 5
+Entity: the “Japanese Economic Miracle
+Entity POS: ['DET', 'PUNCT', 'PROPN', 'PROPN', 'PROPN']
+Previous Word: as | POS: ADP 
+Next Word: ” | POS: PUNCT 
+Context: This led to what is known
+as the “Japanese Economic Miracle” and it made Japan one of the fastest
+growing economy in the world.
+
+Entity POS count: 1
+Entity: Yokocho
+Entity POS: ['PROPN']
+Previous Word: called | POS: VERB 
+Next Word: 
+ | POS: SPACE 
+Context: Commercial clusters called Yokocho
+started to pop up around train stations, where you can find the tiniest micro bars
+and restaurants, or the vertical versions of these,
+the Zakkyo, with signage all over the facade
+to lure people in from the street.
+
+Entity POS count: 1
+Entity: Zakkyo
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: , | POS: PUNCT 
+Context: Commercial clusters called Yokocho
+started to pop up around train stations, where you can find the tiniest micro bars
+and restaurants, or the vertical versions of these,
+the Zakkyo, with signage all over the facade
+to lure people in from the street.
+
+Entity POS count: 1
+Entity: Otomo
+Entity POS: ['PROPN']
+Previous Word: what | POS: PRON 
+Next Word: tried | POS: VERB 
+Context: And all of this is what Otomo tried
+to capture in Akira.  
+
+Entity POS count: 2
+Entity: Tokyo Bay
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: of | POS: ADP 
+Next Word: with | POS: ADP 
+Context: Several proposals tried to tackle
+this problem, including plans for filling up
+almost 70% of Tokyo Bay with the land.
+
+Entity POS count: 4
+Entity: Kenzo Tange Kenzo Tange
+Entity POS: ['PROPN', 'PROPN', 'PROPN', 'PROPN']
+Previous Word: called | POS: VERB 
+Next Word: is | POS: AUX 
+Context: and this radical concept
+was by an architect called Kenzo Tange Kenzo Tange is arguably one of
+the most influential Japanese architects.
+
+Entity POS count: 1
+Entity: influential Japanese
+Entity POS: ['ADJ']
+Previous Word: influential | POS: ADJ 
+Next Word: architects | POS: NOUN 
+Context: and this radical concept
+was by an architect called Kenzo Tange Kenzo Tange is arguably one of
+the most influential Japanese architects.
+
+Entity POS count: 3
+Entity: the Pritzker Prize
+Entity POS: ['DET', 'PROPN', 'PROPN']
+Previous Word: received | POS: VERB 
+Next Word: in | POS: ADP 
+Context: He received the Pritzker Prize in 1987,
+which is like the equivalent of a Nobel Prize in architecture.
+
+Entity POS count: 3
+Entity: a Nobel Prize
+Entity POS: ['DET', 'PROPN', 'PROPN']
+Previous Word: of | POS: ADP 
+Next Word: in | POS: ADP 
+Context: He received the Pritzker Prize in 1987,
+which is like the equivalent of a Nobel Prize in architecture.
+
+Entity POS count: 1
+Entity: Tange
+Entity POS: ['PROPN']
+Previous Word: . | POS: PUNCT 
+Next Word: was | POS: AUX 
+Context: Tange was born in Osaka in 1913.
+
+Entity POS count: 1
+Entity: Hiroshima
+Entity POS: ['PROPN']
+Previous Word: to | POS: ADP 
+Next Word: 
+ | POS: SPACE 
+Context: Then he moved to Hiroshima
+in high school in 1930, where he came across this drawing,
+a drawing by the Swiss architect Le Corbusier, Who is considered to be
+the father of modernism.
+
+Entity POS count: 1
+Entity: Swiss architect
+Entity POS: ['ADJ']
+Previous Word: the | POS: DET 
+Next Word: architect | POS: NOUN 
+Context: Then he moved to Hiroshima
+in high school in 1930, where he came across this drawing,
+a drawing by the Swiss architect Le Corbusier, Who is considered to be
+the father of modernism.
+
+Entity POS count: 2
+Entity: architect Le Corbusier
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: architect | POS: NOUN 
+Next Word: , | POS: PUNCT 
+Context: Then he moved to Hiroshima
+in high school in 1930, where he came across this drawing,
+a drawing by the Swiss architect Le Corbusier, Who is considered to be
+the father of modernism.
+
+Entity POS count: 1
+Entity: Western world
+Entity POS: ['ADJ']
+Previous Word: the | POS: DET 
+Next Word: world | POS: NOUN 
+Context: Although this is
+how most architecture trained now, back then this was pretty radical,
+Especially in Japan, that pretty much had an unbroken tradition of architecture
+which developed, isolated from the Western world
+over thousands of years.
+
+Entity POS count: 2
+Entity: Kenzo Tange
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: made | POS: VERB 
+Next Word: 
+ | POS: SPACE 
+Context: Anyway, it was this that made Kenzo Tange
+want to become an architect Later in his life.
+
+Entity POS count: 1
+Entity: Tuncay
+Entity POS: ['PROPN']
+Previous Word: . | POS: PUNCT 
+Next Word: would | POS: AUX 
+Context: Tuncay would work at the office of Mikawa,
+who actually worked for Corbusier and designed buildings
+that almost remind me of this perfect Midjourney blend of modernism
+and traditional Japanese architecture.
+
+Entity POS count: 1
+Entity: Mikawa
+Entity POS: ['PROPN']
+Previous Word: of | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: Tuncay would work at the office of Mikawa,
+who actually worked for Corbusier and designed buildings
+that almost remind me of this perfect Midjourney blend of modernism
+and traditional Japanese architecture.
+
+Entity POS count: 1
+Entity: Corbusier
+Entity POS: ['PROPN']
+Previous Word: for | POS: ADP 
+Next Word: and | POS: CCONJ 
+Context: Tuncay would work at the office of Mikawa,
+who actually worked for Corbusier and designed buildings
+that almost remind me of this perfect Midjourney blend of modernism
+and traditional Japanese architecture.
+
+Entity POS count: 1
+Entity: perfect Midjourney
+Entity POS: ['PROPN']
+Previous Word: perfect | POS: ADJ 
+Next Word: blend | POS: NOUN 
+Context: Tuncay would work at the office of Mikawa,
+who actually worked for Corbusier and designed buildings
+that almost remind me of this perfect Midjourney blend of modernism
+and traditional Japanese architecture.
+
+Entity POS count: 4
+Entity: Tokyo Metropolitan Government Building
+Entity POS: ['PROPN', 'PROPN', 'PROPN', 'PROPN']
+Previous Word: his | POS: PRON 
+Next Word: , | POS: PUNCT 
+Context: For his Tokyo Metropolitan Government Building, which is
+one of the major landmarks of Tokyo, apparently he took inspiration from Gothic cathedrals,
+but also from computer chips.
+
+Entity POS count: 2
+Entity: unfinished Olympic Stadium
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: unfinished | POS: ADJ 
+Next Word: 
+ | POS: SPACE 
+Context: And for the unfinished Olympic Stadium
+in Akira That's where everything ends.
+
+Entity POS count: 4
+Entity: The Yoyogi National Gymnasium
+Entity POS: ['DET', 'PROPN', 'PROPN', 'PROPN']
+Previous Word: . | POS: PUNCT 
+Next Word: served | POS: VERB 
+Context: The Yoyogi National Gymnasium served
+as the inspiration, in this case, not so much for the design,
+but for the symbolism.
+
+Entity POS count: 3
+Entity: The Yoyogi Gymnasium
+Entity POS: ['DET', 'PROPN', 'PROPN']
+Previous Word: . | POS: PUNCT 
+Next Word: was | POS: AUX 
+Context: The Yoyogi Gymnasium was built in 1964 for the Tokyo Olympics,
+which was a huge deal at the time.
+
+Entity POS count: 3
+Entity: the Tokyo Olympics
+Entity POS: ['DET', 'PROPN', 'PROPN']
+Previous Word: for | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: The Yoyogi Gymnasium was built in 1964 for the Tokyo Olympics,
+which was a huge deal at the time.
+
+Entity POS count: 1
+Entity: first Asian
+Entity POS: ['ADJ']
+Previous Word: first | POS: ADJ 
+Next Word: country | POS: NOUN 
+Context: It was a very first Asian country
+to host the Olympics, and it was just 19 years after the war.
+
+Entity POS count: 1
+Entity: Olympics
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: , | POS: PUNCT 
+Context: It was a very first Asian country
+to host the Olympics, and it was just 19 years after the war.
+
+Entity POS count: 3
+Entity: the Philips Pavilion
+Entity POS: ['DET', 'PROPN', 'PROPN']
+Previous Word: by | POS: ADP 
+Next Word: 
+ | POS: SPACE 
+Context: it was inspired by the Philips Pavilion
+by  Le Corbusier except it was about ten times in size, and it evokes certain
+traditional Japanese qualities.
+
+Entity POS count: 2
+Entity: Otomo Especially
+Entity POS: ['PROPN', 'ADV']
+Previous Word: inspired | POS: VERB 
+Next Word: for | POS: ADP 
+Context: And I can imagine
+how it could have inspired Otomo Especially for that time.
+
+Entity POS count: 2
+Entity: New Tokyo
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: in | POS: ADP 
+Next Word: 
+ | POS: SPACE 
+Context: The difference is that in New Tokyo
+it was full of colors, colors that were incredibly vibrant,
+especially when you put on my LG  My View monitor,
+who's also the sponsor of today's video.
+
+Entity POS count: 2
+Entity: Smart TV
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: . | POS: PUNCT 
+Next Word: . | POS: PUNCT 
+Context: Smart TV.
+
+Entity POS count: 1
+Entity: Netflix
+Entity POS: ['PROPN']
+Previous Word: watch | POS: VERB 
+Next Word: 
+ | POS: SPACE 
+Context: you can use LG webOS to run apps
+or cast content from any of your devices, and even watch Netflix
+without the need to connect to a computer.
+
+Entity POS count: 1
+Entity: Kenzo
+Entity POS: ['PROPN']
+Previous Word: . | POS: PUNCT 
+Next Word: . | POS: PUNCT 
+Context: Kenzo.
+
+Entity POS count: 3
+Entity: Kenzo Tange's work
+Entity POS: ['PROPN', 'PROPN', 'PART']
+Previous Word: . | POS: PUNCT 
+Next Word: work | POS: NOUN 
+Context: Kenzo Tange's work might have influenced
+the architecture of Neo Tokyo, but the massive scale of the city
+was inspired by Metropolis, Which is one of the most iconic films
+from the 1920s by the Austrian filmmaker Fritz Lang,
+Lang was born in 1890, in Vienna, and he was initially interested
+in studying architecture.
+
+Entity POS count: 1
+Entity: Metropolis
+Entity POS: ['PROPN']
+Previous Word: by | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: Kenzo Tange's work might have influenced
+the architecture of Neo Tokyo, but the massive scale of the city
+was inspired by Metropolis, Which is one of the most iconic films
+from the 1920s by the Austrian filmmaker Fritz Lang,
+Lang was born in 1890, in Vienna, and he was initially interested
+in studying architecture.
+
+Entity POS count: 1
+Entity: Austrian filmmaker
+Entity POS: ['ADJ']
+Previous Word: the | POS: DET 
+Next Word: filmmaker | POS: NOUN 
+Context: Kenzo Tange's work might have influenced
+the architecture of Neo Tokyo, but the massive scale of the city
+was inspired by Metropolis, Which is one of the most iconic films
+from the 1920s by the Austrian filmmaker Fritz Lang,
+Lang was born in 1890, in Vienna, and he was initially interested
+in studying architecture.
+
+Entity POS count: 2
+Entity: filmmaker Fritz Lang
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: filmmaker | POS: NOUN 
+Next Word: , | POS: PUNCT 
+Context: Kenzo Tange's work might have influenced
+the architecture of Neo Tokyo, but the massive scale of the city
+was inspired by Metropolis, Which is one of the most iconic films
+from the 1920s by the Austrian filmmaker Fritz Lang,
+Lang was born in 1890, in Vienna, and he was initially interested
+in studying architecture.
+
+Entity POS count: 1
+Entity: Lang
+Entity POS: ['PROPN']
+Previous Word: 
+ | POS: SPACE 
+Next Word: was | POS: AUX 
+Context: Kenzo Tange's work might have influenced
+the architecture of Neo Tokyo, but the massive scale of the city
+was inspired by Metropolis, Which is one of the most iconic films
+from the 1920s by the Austrian filmmaker Fritz Lang,
+Lang was born in 1890, in Vienna, and he was initially interested
+in studying architecture.
+
+Entity POS count: 1
+Entity: Vienna
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: Kenzo Tange's work might have influenced
+the architecture of Neo Tokyo, but the massive scale of the city
+was inspired by Metropolis, Which is one of the most iconic films
+from the 1920s by the Austrian filmmaker Fritz Lang,
+Lang was born in 1890, in Vienna, and he was initially interested
+in studying architecture.
+
+Entity POS count: 1
+Entity: Berlin
+Entity POS: ['PROPN']
+Previous Word: to | POS: ADP 
+Next Word: 
+ | POS: SPACE 
+Context: But when he moved to Berlin
+after World War One, which was a hotspot for artistic experimentation,
+he fell in love with film.
+
+Entity POS count: 3
+Entity: World War One
+Entity POS: ['PROPN', 'PROPN', 'PROPN']
+Previous Word: after | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: But when he moved to Berlin
+after World War One, which was a hotspot for artistic experimentation,
+he fell in love with film.
+
+Entity POS count: 3
+Entity: New York City
+Entity POS: ['PROPN', 'PROPN', 'PROPN']
+Previous Word: ... | POS: PUNCT 
+Next Word: . | POS: PUNCT 
+Context: New York City.
+
+Entity POS count: 2
+Entity: New York
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: . | POS: PUNCT 
+Next Word: exploded | POS: VERB 
+Context: New York exploded in the 1920s
+thanks to innovations in steel and reinforced concrete,
+which allowed them to build much taller.
+
+Entity POS count: 1
+Entity: Manhattan
+Entity POS: ['PROPN']
+Previous Word: because | POS: SCONJ 
+Next Word: is | POS: AUX 
+Context: This led to a population boom,
+and because Manhattan is an island, it grew even taller.
+
+Entity POS count: 2
+Entity: Blade Runner
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: like | POS: ADP 
+Next Word: and | POS: CCONJ 
+Context: He created the image of a mega city
+which actually inspired movies like Blade Runner and Star Wars,
+And of course, Akira and Neo Tokyo.
+
+Entity POS count: 1
+Entity: Vancouver
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: And I've never seen anything
+like this here in Vancouver, so I thought this was
+a really successful example.
+
+Entity POS count: 1
+Entity: miyoshi
+Entity POS: ['NOUN']
+Previous Word: a | POS: DET 
+Next Word: to | POS: ADP 
+Context: It's called a miyoshi to park.
+

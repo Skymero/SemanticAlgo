@@ -1,0 +1,154 @@
+Entity POS count: 1
+Entity: mastercard
+Entity POS: ['NOUN']
+Previous Word: and | POS: CCONJ 
+Next Word: shut | POS: VERB 
+Context: and then it kind of evolved into other campaigns for example when uh visa and mastercard shut services off to weak leaks uh to stop quick leaks from receiving uh donations anonymous um launched a denial of service attack against mastercard and visa so can you tell me about one of the first attacks you were involved with under the banner of anonymous one of the kind of first hacks that we did is we participated during the arab spring when egypt was having a revolution and tunisia as well and for example we hacked the prime minister um of tunisia and replaced his front page with a kind of like a message to support the revolution so how did you do this let's explain how would you do something like that
+
+Entity POS count: 3
+Entity: mastercard and visa
+Entity POS: ['NOUN', 'CCONJ', 'NOUN']
+Previous Word: against | POS: ADP 
+Next Word: so | POS: ADV 
+Context: and then it kind of evolved into other campaigns for example when uh visa and mastercard shut services off to weak leaks uh to stop quick leaks from receiving uh donations anonymous um launched a denial of service attack against mastercard and visa so can you tell me about one of the first attacks you were involved with under the banner of anonymous one of the kind of first hacks that we did is we participated during the arab spring when egypt was having a revolution and tunisia as well and for example we hacked the prime minister um of tunisia and replaced his front page with a kind of like a message to support the revolution so how did you do this let's explain how would you do something like that
+
+Entity POS count: 1
+Entity: egypt
+Entity POS: ['PROPN']
+Previous Word: when | POS: SCONJ 
+Next Word: was | POS: AUX 
+Context: and then it kind of evolved into other campaigns for example when uh visa and mastercard shut services off to weak leaks uh to stop quick leaks from receiving uh donations anonymous um launched a denial of service attack against mastercard and visa so can you tell me about one of the first attacks you were involved with under the banner of anonymous one of the kind of first hacks that we did is we participated during the arab spring when egypt was having a revolution and tunisia as well and for example we hacked the prime minister um of tunisia and replaced his front page with a kind of like a message to support the revolution so how did you do this let's explain how would you do something like that
+
+Entity POS count: 1
+Entity: tunisia
+Entity POS: ['PROPN']
+Previous Word: and | POS: CCONJ 
+Next Word: as | POS: ADV 
+Context: and then it kind of evolved into other campaigns for example when uh visa and mastercard shut services off to weak leaks uh to stop quick leaks from receiving uh donations anonymous um launched a denial of service attack against mastercard and visa so can you tell me about one of the first attacks you were involved with under the banner of anonymous one of the kind of first hacks that we did is we participated during the arab spring when egypt was having a revolution and tunisia as well and for example we hacked the prime minister um of tunisia and replaced his front page with a kind of like a message to support the revolution so how did you do this let's explain how would you do something like that
+
+Entity POS count: 1
+Entity: us defense
+Entity POS: ['PROPN']
+Previous Word: a | POS: DET 
+Next Word: defense | POS: NOUN 
+Context: so what a lot of the hacks that we did were very simple in the sense that it wasn't really to show that we were master hackers but more that the companies that we were hacking had very poor security so this there's a few very common hacking vulnerabilities that were quite common at the time one of them is for example called sql injection which is to deal with the way that a website is programmed and how it accesses its internal database and if it's not programmed correctly then you can basically hack the entire database and change things so when you hack a company's database you might come across passwords and when you crack those passwords you might find out that people are using the same password everywhere so for example with one company hacked um their ceo was using the same password for his email company account his paypal account his world of warcraft account and pretty much every single account so we managed to get access to his entire online life because he was using the same password everywhere he was a ceo of a us defense contractor called hp gary federal when we hacked um hp gary federal's emails it was exposed that they were up to a lot of no good in the sense that one of the things that they were trying to do is blackmail american journalists that support the weak leaks and so that's kind of when i realized that information can give people a lot of power or can change the world
+
+Entity POS count: 2
+Entity: hp gary federal
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: called | POS: VERB 
+Next Word: federal | POS: PROPN 
+Context: so what a lot of the hacks that we did were very simple in the sense that it wasn't really to show that we were master hackers but more that the companies that we were hacking had very poor security so this there's a few very common hacking vulnerabilities that were quite common at the time one of them is for example called sql injection which is to deal with the way that a website is programmed and how it accesses its internal database and if it's not programmed correctly then you can basically hack the entire database and change things so when you hack a company's database you might come across passwords and when you crack those passwords you might find out that people are using the same password everywhere so for example with one company hacked um their ceo was using the same password for his email company account his paypal account his world of warcraft account and pretty much every single account so we managed to get access to his entire online life because he was using the same password everywhere he was a ceo of a us defense contractor called hp gary federal when we hacked um hp gary federal's emails it was exposed that they were up to a lot of no good in the sense that one of the things that they were trying to do is blackmail american journalists that support the weak leaks and so that's kind of when i realized that information can give people a lot of power or can change the world
+
+Entity POS count: 1
+Entity: blackmail american
+Entity POS: ['ADJ']
+Previous Word: blackmail | POS: NOUN 
+Next Word: journalists | POS: NOUN 
+Context: so what a lot of the hacks that we did were very simple in the sense that it wasn't really to show that we were master hackers but more that the companies that we were hacking had very poor security so this there's a few very common hacking vulnerabilities that were quite common at the time one of them is for example called sql injection which is to deal with the way that a website is programmed and how it accesses its internal database and if it's not programmed correctly then you can basically hack the entire database and change things so when you hack a company's database you might come across passwords and when you crack those passwords you might find out that people are using the same password everywhere so for example with one company hacked um their ceo was using the same password for his email company account his paypal account his world of warcraft account and pretty much every single account so we managed to get access to his entire online life because he was using the same password everywhere he was a ceo of a us defense contractor called hp gary federal when we hacked um hp gary federal's emails it was exposed that they were up to a lot of no good in the sense that one of the things that they were trying to do is blackmail american journalists that support the weak leaks and so that's kind of when i realized that information can give people a lot of power or can change the world
+
+Entity POS count: 1
+Entity: lolzic
+Entity POS: ['NOUN']
+Previous Word: of | POS: ADP 
+Next Word: was | POS: AUX 
+Context: and the reason why i i proposed the idea of lolzic was because what happened was that a lot of people were hacking lots of different things anonymous and we're finding all of these security availabilities in all these companies but there wasn't necessarily a good reason to actually exploit this vulnerabilities in the sense that there was no political or activist reason to expose those vulnerabilities or to hack those companies and i didn't really want people to hack those companies under the banner of anonymous if there wasn't a political or activist reason to do so
+
+Entity POS count: 1
+Entity: lalsec
+Entity POS: ['NOUN']
+Previous Word: called | POS: VERB 
+Next Word: where | POS: SCONJ 
+Context: so we created this alternative kind of banner or hacking kind of group called lalsec where we would just like dump or hack companies in there um that we didn't necessarily have a kind of activist reason to hack to kind of separate those two concerns we hacked fox for example and that was done under the lawsuit banner to be leaked the x factor contestants database
+
+Entity POS count: 1
+Entity: lolsic
+Entity POS: ['ADJ']
+Previous Word: from | POS: ADP 
+Next Word: but | POS: CCONJ 
+Context: and then what did you do use international remember so like i wasn't directly involved in the news international act because at that time i was taking a break from lolsic but zalzek found a security probability in the sun and this was just around the time that the news of the world hacking scandal was happening so there was a really good reason to hack the sun
+
+Entity POS count: 1
+Entity: zalzek
+Entity POS: ['PROPN']
+Previous Word: but | POS: CCONJ 
+Next Word: found | POS: VERB 
+Context: and then what did you do use international remember so like i wasn't directly involved in the news international act because at that time i was taking a break from lolsic but zalzek found a security probability in the sun and this was just around the time that the news of the world hacking scandal was happening so there was a really good reason to hack the sun
+
+Entity POS count: 2
+Entity: rupert murdoch
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: that | POS: SCONJ 
+Next Word: was | POS: AUX 
+Context: and we put up a fake news article on there saying that rupert murdoch was found dead in his garden um i think was something to do with palladium poisoning and a lot of people on the internet reflect that we gained something like 150 000 followers there was we hacked into an fbi affiliate organization and leaked fbi agent usernames and passwords we hacked into the arizona police department the u.s senate uh what else there's like a whole list of them what how old are you at this point
+
+Entity POS count: 1
+Entity: fbi affiliate
+Entity POS: ['PROPN']
+Previous Word: an | POS: DET 
+Next Word: affiliate | POS: NOUN 
+Context: and we put up a fake news article on there saying that rupert murdoch was found dead in his garden um i think was something to do with palladium poisoning and a lot of people on the internet reflect that we gained something like 150 000 followers there was we hacked into an fbi affiliate organization and leaked fbi agent usernames and passwords we hacked into the arizona police department the u.s senate uh what else there's like a whole list of them what how old are you at this point
+
+Entity POS count: 1
+Entity: arizona police
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: police | POS: PROPN 
+Context: and we put up a fake news article on there saying that rupert murdoch was found dead in his garden um i think was something to do with palladium poisoning and a lot of people on the internet reflect that we gained something like 150 000 followers there was we hacked into an fbi affiliate organization and leaked fbi agent usernames and passwords we hacked into the arizona police department the u.s senate uh what else there's like a whole list of them what how old are you at this point
+
+Entity POS count: 3
+Entity: department the u.s senate
+Entity POS: ['DET', 'PROPN', 'PROPN']
+Previous Word: department | POS: PROPN 
+Next Word: uh | POS: INTJ 
+Context: and we put up a fake news article on there saying that rupert murdoch was found dead in his garden um i think was something to do with palladium poisoning and a lot of people on the internet reflect that we gained something like 150 000 followers there was we hacked into an fbi affiliate organization and leaked fbi agent usernames and passwords we hacked into the arizona police department the u.s senate uh what else there's like a whole list of them what how old are you at this point
+
+Entity POS count: 1
+Entity: usb sticks
+Entity POS: ['NOUN']
+Previous Word: like | POS: ADP 
+Next Word: sticks | POS: NOUN 
+Context: and i just kind of sat in my room for three hours as i watched them try to search my whole room for any kind of like usb sticks or laptops then i was taken to a belgravia police station in london every time they arrest you they have to caution you they have to say something like you you are not under arrest for this
+
+Entity POS count: 1
+Entity: belgravia police
+Entity POS: ['NOUN']
+Previous Word: a | POS: DET 
+Next Word: police | POS: NOUN 
+Context: and i just kind of sat in my room for three hours as i watched them try to search my whole room for any kind of like usb sticks or laptops then i was taken to a belgravia police station in london every time they arrest you they have to caution you they have to say something like you you are not under arrest for this
+
+Entity POS count: 1
+Entity: london
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: every | POS: DET 
+Context: and i just kind of sat in my room for three hours as i watched them try to search my whole room for any kind of like usb sticks or laptops then i was taken to a belgravia police station in london every time they arrest you they have to caution you they have to say something like you you are not under arrest for this
+
+Entity POS count: 1
+Entity: uk
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: um | POS: INTJ 
+Context: and i wasn't aware of any like hacker under 18 in the uk um you know being going to jail for something like that
+
+Entity POS count: 2
+Entity: new york
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: in | POS: ADP 
+Next Word: and | POS: CCONJ 
+Context: so i wasn't really kind of scared i was more kind of like um kind of pissed off that i was arrested than scared about a year into the case it turned out that one of our the members in the group so there were six members in the group and one of them was living in new york and he was arrested and later flipped to be an fbi informant and the fbi had basically a copy of everything that we typed the chat rooms so like the evidence was too strong so we had to please guilty
+
+Entity POS count: 1
+Entity: asia
+Entity POS: ['PROPN']
+Previous Word: like | POS: ADP 
+Next Word: and | POS: CCONJ 
+Context: but if i just like did a google search or something they probably wouldn't know so as part of my sentence i had to email the police every time i for example bought a new computer or dispose of the computer and also i was um not allowed to use encryption for anything except for work or educational purposes and that was an order that lasted for five years what's the state of hacktivism in 2021 so anonymous isn't as active as it used to be since i was arrested there was a lot of activity and anonymous also kind of spread to other parts of the world like asia and latin america and there's also lots of spin-offs of lots of there has been lots of activism since then but more by individuals and lone actors rather than by groups of people like anonymous he gestured at me just as i was holding the phone trying to get through to the office in london uh with his gun
+
+Entity POS count: 2
+Entity: latin america
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: and | POS: CCONJ 
+Next Word: and | POS: CCONJ 
+Context: but if i just like did a google search or something they probably wouldn't know so as part of my sentence i had to email the police every time i for example bought a new computer or dispose of the computer and also i was um not allowed to use encryption for anything except for work or educational purposes and that was an order that lasted for five years what's the state of hacktivism in 2021 so anonymous isn't as active as it used to be since i was arrested there was a lot of activity and anonymous also kind of spread to other parts of the world like asia and latin america and there's also lots of spin-offs of lots of there has been lots of activism since then but more by individuals and lone actors rather than by groups of people like anonymous he gestured at me just as i was holding the phone trying to get through to the office in london uh with his gun
+

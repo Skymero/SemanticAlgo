@@ -1,0 +1,3406 @@
+Entity POS count: 2
+Entity: Tim Ferriss
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: None | POS: None 
+Next Word: : | POS: PUNCT 
+Context: Tim Ferriss: Wade, welcome 
+to the show.
+
+Entity POS count: 1
+Entity: Wade
+Entity POS: ['PROPN']
+Previous Word: : | POS: PUNCT 
+Next Word: , | POS: PUNCT 
+Context: Tim Ferriss: Wade, welcome 
+to the show.
+
+Entity POS count: 2
+Entity: Wade Davis
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: 
+ | POS: SPACE 
+Next Word: : | POS: PUNCT 
+Context: Wade Davis:
+
+Entity POS count: 1
+Entity: Tim
+Entity POS: ['PROPN']
+Previous Word:     | POS: SPACE 
+Next Word: . | POS: PUNCT 
+Context: Well, thanks very much,   Tim.
+
+Entity POS count: 1
+Entity: Wayfinders
+Entity POS: ['PROPN']
+Previous Word: The | POS: DET 
+Next Word: by | POS: ADP 
+Context: It was actually   being gifted The Wayfinders by a friend of mine. 
+
+
+Entity POS count: 1
+Entity: Canada
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: called | POS: VERB 
+Context: The Wayfinders was a book 
+put together in a really wonderful tradition   in Canada called the CBC Massey Lectures. 
+
+
+Entity POS count: 3
+Entity: Martin Luther King
+Entity POS: ['PROPN', 'PROPN', 'PROPN']
+Previous Word: . | POS: PUNCT 
+Next Word: gave | POS: VERB 
+Context: Martin Luther King gave them, I was the 
+first anthropologist since Claude Lévi-Strauss,  The Wayfinders has a very conversational 
+style
+
+Entity POS count: 4
+Entity: Claude Lévi-Strauss
+Entity POS: ['PROPN', 'PROPN', 'PUNCT', 'PROPN']
+Previous Word: since | POS: SCONJ 
+Next Word: , | POS: PUNCT 
+Context: Martin Luther King gave them, I was the 
+first anthropologist since Claude Lévi-Strauss,  The Wayfinders has a very conversational 
+style
+
+Entity POS count: 4
+Entity: the National 
+Geographic
+Entity POS: ['DET', 'PROPN', 'SPACE', 'PROPN']
+Previous Word: at | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: And the basis of the book   was really the mission that I had at the National 
+Geographic.
+
+Entity POS count: 1
+Entity: Geographic
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word:  
+ | POS: SPACE 
+Context: I was very fortunate to be recruited   as the first class of what the Geographic 
+was calling their explorers and residents,   which is kind of an odd term because 
+none of us were ever in residence.  
+
+Entity POS count: 2
+Entity: Jane Goodall
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: , | POS: PUNCT 
+Context: And so that they 
+recruited seven individuals, Jane Goodall,   Bob Ballard, who found the Titanic, Sylvia Earle, 
+the great oceanographer, a host of incredible   characters, Johan Reinhard, the high-altitude 
+archeologist who found the Ice Maiden, a perfectly   preserved Incan mummy on Llullaillaco.
+
+Entity POS count: 2
+Entity: Bob Ballard
+Entity POS: ['PROPN', 'PROPN']
+Previous Word:     | POS: SPACE 
+Next Word: , | POS: PUNCT 
+Context: And so that they 
+recruited seven individuals, Jane Goodall,   Bob Ballard, who found the Titanic, Sylvia Earle, 
+the great oceanographer, a host of incredible   characters, Johan Reinhard, the high-altitude 
+archeologist who found the Ice Maiden, a perfectly   preserved Incan mummy on Llullaillaco.
+
+Entity POS count: 1
+Entity: Titanic
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: , | POS: PUNCT 
+Context: And so that they 
+recruited seven individuals, Jane Goodall,   Bob Ballard, who found the Titanic, Sylvia Earle, 
+the great oceanographer, a host of incredible   characters, Johan Reinhard, the high-altitude 
+archeologist who found the Ice Maiden, a perfectly   preserved Incan mummy on Llullaillaco.
+
+Entity POS count: 2
+Entity: Sylvia Earle
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: , | POS: PUNCT 
+Context: And so that they 
+recruited seven individuals, Jane Goodall,   Bob Ballard, who found the Titanic, Sylvia Earle, 
+the great oceanographer, a host of incredible   characters, Johan Reinhard, the high-altitude 
+archeologist who found the Ice Maiden, a perfectly   preserved Incan mummy on Llullaillaco.
+
+Entity POS count: 2
+Entity: Johan Reinhard
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: , | POS: PUNCT 
+Context: And so that they 
+recruited seven individuals, Jane Goodall,   Bob Ballard, who found the Titanic, Sylvia Earle, 
+the great oceanographer, a host of incredible   characters, Johan Reinhard, the high-altitude 
+archeologist who found the Ice Maiden, a perfectly   preserved Incan mummy on Llullaillaco.
+
+Entity POS count: 3
+Entity: the Ice Maiden
+Entity POS: ['DET', 'PROPN', 'PROPN']
+Previous Word: found | POS: VERB 
+Next Word: , | POS: PUNCT 
+Context: And so that they 
+recruited seven individuals, Jane Goodall,   Bob Ballard, who found the Titanic, Sylvia Earle, 
+the great oceanographer, a host of incredible   characters, Johan Reinhard, the high-altitude 
+archeologist who found the Ice Maiden, a perfectly   preserved Incan mummy on Llullaillaco.
+
+Entity POS count: 1
+Entity: Incan mummy
+Entity POS: ['ADJ']
+Previous Word: preserved | POS: VERB 
+Next Word: mummy | POS: ADJ 
+Context: And so that they 
+recruited seven individuals, Jane Goodall,   Bob Ballard, who found the Titanic, Sylvia Earle, 
+the great oceanographer, a host of incredible   characters, Johan Reinhard, the high-altitude 
+archeologist who found the Ice Maiden, a perfectly   preserved Incan mummy on Llullaillaco.
+
+Entity POS count: 1
+Entity: Llullaillaco
+Entity POS: ['PROPN']
+Previous Word: on | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: And so that they 
+recruited seven individuals, Jane Goodall,   Bob Ballard, who found the Titanic, Sylvia Earle, 
+the great oceanographer, a host of incredible   characters, Johan Reinhard, the high-altitude 
+archeologist who found the Ice Maiden, a perfectly   preserved Incan mummy on Llullaillaco.
+
+Entity POS count: 2
+Entity: National Geographic
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: was | POS: AUX 
+Context: In the second hundred years, having   told you about the world, National Geographic was 
+going to help you save the world.
+
+Entity POS count: 1
+Entity: Africa
+Entity POS: ['PROPN']
+Previous Word: of | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: We're 
+all descendants of Africa, including those of us   who walked out of the ancient continent 65,000 
+years ago.
+
+Entity POS count: 1
+Entity: Strand
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word:  
+ | POS: SPACE 
+Context: That old 
+Victorian idea that we went from the savage to   the barbarian to the civilized, to the Strand 
+of London.
+
+Entity POS count: 1
+Entity: London
+Entity POS: ['PROPN']
+Previous Word: of | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: That old 
+Victorian idea that we went from the savage to   the barbarian to the civilized, to the Strand 
+of London.
+
+Entity POS count: 1
+Entity: Victorian societies
+Entity POS: ['ADJ']
+Previous Word: That | POS: DET 
+Next Word: societies | POS: NOUN 
+Context: That Victorian societies sat at the   apex of a pyramid that went down to the so-called 
+primitives of the world, absolutely ridiculed by   modern science, shown to be an artifact of the 
+19th century, irrelevant to our lives today,   and as distant from those lives as the idea of 
+clergymen in that era who believed the Earth was   only 6,000 years old.
+
+Entity POS count: 1
+Entity: Earth
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: was | POS: AUX 
+Context: That Victorian societies sat at the   apex of a pyramid that went down to the so-called 
+primitives of the world, absolutely ridiculed by   modern science, shown to be an artifact of the 
+19th century, irrelevant to our lives today,   and as distant from those lives as the idea of 
+clergymen in that era who believed the Earth was   only 6,000 years old.
+
+Entity POS count: 1
+Entity: Polynesian Wayfinders
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: Wayfinders | POS: PROPN 
+Context: And I think if 
+you asked which was the most extraordinary of all,   and it would have to be the Polynesian Wayfinders.
+
+
+Entity POS count: 5
+Entity: the Polynesian Voyaging 
+Society
+Entity POS: ['DET', 'PROPN', 'PROPN', 'SPACE', 'PROPN']
+Previous Word: of | POS: ADP 
+Next Word: can | POS: AUX 
+Context: Even today, members of the Polynesian Voyaging 
+Society can name 250 stars in the night sky.
+
+Entity POS count: 1
+Entity: Hōkūleʻa
+Entity POS: ['PROPN']
+Previous Word: The | POS: DET 
+Next Word: , | POS: PUNCT 
+Context: They   can sense the presence of distant atolls of 
+islands beyond the visible horizon just by   watching the reverberation of waves across the 
+hull of their sacred canoe, The Hōkūleʻa, this   great vessel that is a symbol of this Polynesian 
+renaissance.
+
+Entity POS count: 1
+Entity: Polynesia
+Entity POS: ['PROPN']
+Previous Word: with | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: And 
+so with Polynesia, it was very simple.
+
+Entity POS count: 1
+Entity: most European
+Entity POS: ['ADJ']
+Previous Word: most | POS: ADJ 
+Next Word: transports | POS: NOUN 
+Context: And it   was the impossibility of doing that that kept 
+most European transports hugging the shores of   continents until the British solved the problem of 
+longitude with the invention of the chronometer.   
+
+Entity POS count: 1
+Entity: British
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: solved | POS: VERB 
+Context: And it   was the impossibility of doing that that kept 
+most European transports hugging the shores of   continents until the British solved the problem of 
+longitude with the invention of the chronometer.   
+
+Entity POS count: 1
+Entity: Polynesians
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: set | POS: VERB 
+Context: But we know that 10 centuries before Christ, from 
+an ancient civilization called Lapita, the ancient   ancestors of the Polynesians set sail into the 
+rising sun.
+
+Entity POS count: 3
+Entity: the   moon
+Entity POS: ['DET', 'SPACE', 'NOUN']
+Previous Word: , | POS: PUNCT 
+Next Word: , | POS: PUNCT 
+Context: And this idea of dead reckoning means,   and back to your navigator, why he's not running 
+the ship, because he or she must sit monk-like on   the back of the vessel, remembering every shift of 
+the wind, every tack, every sign of the sun, the   moon, the stars, the birds, the salinity in the 
+water, every one of these empirical observations,   and the order of their acquisition.
+
+Entity POS count: 1
+Entity: catnap
+Entity POS: ['NOUN']
+Previous Word: of | POS: ADV 
+Next Word: in | POS: ADP 
+Context: How many hours of sleep on average over the voyage   per day, or per night with that navigator get?
+Wade Davis: It's a great question because they   kind of catnap in a way, but they can't really 
+do much more than just catnapping.
+
+Entity POS count: 1
+Entity: Arctic
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: , | POS: PUNCT 
+Context: But many societies around — I spend a lot of   time in the Arctic, and one of the things that's 
+fascinating is that winter is a time for sleep,   the air of perpetual darkness.
+
+Entity POS count: 3
+Entity: Northern   Colombia
+Entity POS: ['PROPN', 'SPACE', 'PROPN']
+Previous Word: of | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: Tim Ferriss: So let's shift just a bit or 
+maybe entirely to the Kogi peoples of Northern   Colombia.
+
+Entity POS count: 1
+Entity: Colombia
+Entity POS: ['PROPN']
+Previous Word: with | POS: ADP 
+Next Word: and | POS: CCONJ 
+Context: You are deeply, deeply familiar 
+and intimate with Colombia and its people.   
+
+Entity POS count: 2
+Entity: Dr. Mark Plotkin
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: Dr. | POS: PROPN 
+Next Word: , | POS: PUNCT 
+Context: I had the opportunity through a 
+mutual acquaintance, Dr. Mark Plotkin,   to meet a mamo and small group of Kogi, but it 
+was a very cursory experience and they were very   select with their words and communication.
+
+Entity POS count: 1
+Entity: mamo
+Entity POS: ['NOUN']
+Previous Word: a | POS: DET 
+Next Word: and | POS: CCONJ 
+Context: I had the opportunity through a 
+mutual acquaintance, Dr. Mark Plotkin,   to meet a mamo and small group of Kogi, but it 
+was a very cursory experience and they were very   select with their words and communication.
+
+Entity POS count: 1
+Entity: Kogi
+Entity POS: ['PROPN']
+Previous Word: of | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: I had the opportunity through a 
+mutual acquaintance, Dr. Mark Plotkin,   to meet a mamo and small group of Kogi, but it 
+was a very cursory experience and they were very   select with their words and communication.
+
+Entity POS count: 2
+Entity: Northern Colombia
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: of | POS: ADP 
+Next Word:     | POS: SPACE 
+Context: Could 
+you describe the Kogi people of Northern Colombia   and perhaps just paint a picture for people 
+of what that culture and what those peoples   look like?
+
+Entity POS count: 5
+Entity: Sierra Nevada de Santa Marta
+Entity POS: ['PROPN', 'PROPN', 'X', 'PROPN', 'PROPN']
+Previous Word: in | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: They live in Sierra Nevada de Santa Marta.
+
+Entity POS count: 1
+Entity: Caribbean coastal
+Entity POS: ['ADJ']
+Previous Word: the | POS: DET 
+Next Word: coastal | POS: ADJ 
+Context: The 
+highest coastal mountain range on Earth that   soars out of the Caribbean coastal plain to about 
+20,000 feet.
+
+Entity POS count: 1
+Entity: Wiwa
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: , | POS: PUNCT 
+Context: There are four indigenous groups,   the Kogi you mentioned, the Wiwa, the Arhuacos, 
+and the Kankuamo.
+
+Entity POS count: 1
+Entity: Arhuacos
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: , | POS: PUNCT 
+Context: There are four indigenous groups,   the Kogi you mentioned, the Wiwa, the Arhuacos, 
+and the Kankuamo.
+
+Entity POS count: 1
+Entity: Kankuamo
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: . | POS: PUNCT 
+Context: There are four indigenous groups,   the Kogi you mentioned, the Wiwa, the Arhuacos, 
+and the Kankuamo.
+
+Entity POS count: 1
+Entity: Faustian deal
+Entity POS: ['ADJ']
+Previous Word: a | POS: DET 
+Next Word: deal | POS: NOUN 
+Context: The Kankuamo in the 19th century   kind of cut a Faustian deal with the greater 
+Colombian society and endured a great deal of   assimilation.
+
+Entity POS count: 1
+Entity: Colombian society
+Entity POS: ['ADJ']
+Previous Word:  
+ | POS: SPACE 
+Next Word: society | POS: NOUN 
+Context: The Kankuamo in the 19th century   kind of cut a Faustian deal with the greater 
+Colombian society and endured a great deal of   assimilation.
+
+Entity POS count: 1
+Entity: Spanish
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: fully | POS: ADV 
+Context: And in a bloodstained continent,   you can almost say they were never conquered 
+by the Spanish fully.
+
+Entity POS count: 1
+Entity: Tairona
+Entity POS: ['PROPN']
+Previous Word: called | POS: VERB 
+Next Word: , | POS: PUNCT 
+Context: They are descendants of   an ancient civilization called Tairona, which 
+suffered immensely in the first decades of the   Spanish conquest.
+
+Entity POS count: 1
+Entity: Tibetans
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: of | POS: ADP 
+Context: Many people call them   the Tibetans of South America, but they live 
+to this day inspired by a ritual priesthood,   the mamos, the sun priests.
+
+Entity POS count: 2
+Entity: South America
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: of | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: Many people call them   the Tibetans of South America, but they live 
+to this day inspired by a ritual priesthood,   the mamos, the sun priests.
+
+Entity POS count: 3
+Entity: Reichel-Dolmatoff
+Entity POS: ['PROPN', 'PUNCT', 'PROPN']
+Previous Word: by | POS: ADP 
+Next Word: that | POS: SCONJ 
+Context: It was first   reported in the 1940s by Reichel-Dolmatoff that 
+the acolytes were taken away from their families   at the age of two and three, and then sequestered 
+in the shadowy world of darkness for 18 years   during which time they absorbed the religious 
+beliefs of their society.
+
+Entity POS count: 1
+Entity: Reichel
+Entity POS: ['PROPN']
+Previous Word: to | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: And 
+according to Reichel, after 18 years in which the   world only existed as an abstraction, the young 
+acolyte was taken out and taken on a journey.  
+
+Entity POS count: 2
+Entity: Mamo Occidental
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: their | POS: PRON 
+Next Word: . | POS: PUNCT 
+Context: They, in fact, the   Arhuacos call me their Mamo Occidental.
+
+Entity POS count: 1
+Entity: President Santos
+Entity POS: ['PROPN']
+Previous Word: President | POS: PROPN 
+Next Word: , | POS: PUNCT 
+Context: I was 
+once with President Santos, the Nobel laureate,   the first time he ever visited Nabusimake.
+
+Entity POS count: 1
+Entity: Nobel laureate
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: laureate | POS: NOUN 
+Context: I was 
+once with President Santos, the Nobel laureate,   the first time he ever visited Nabusimake.
+
+Entity POS count: 1
+Entity: Nabusimake
+Entity POS: ['PROPN']
+Previous Word: visited | POS: VERB 
+Next Word: . | POS: PUNCT 
+Context: I was 
+once with President Santos, the Nobel laureate,   the first time he ever visited Nabusimake.
+
+Entity POS count: 2
+Entity: North America
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: in | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: He's our ambassador in North America."
+
+Entity POS count: 1
+Entity: Washington
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: In one wintry 
+day in Washington, the Colombian ambassador then,   Carolina Barco, a good friend of mine, turned up 
+at my office at the Geographic with a political   leader, Danilo Villafañe and three mamos, one 
+from each of the three cultures.
+
+Entity POS count: 2
+Entity: Carolina Barco
+Entity POS: ['PROPN', 'PROPN']
+Previous Word:     | POS: SPACE 
+Next Word: , | POS: PUNCT 
+Context: In one wintry 
+day in Washington, the Colombian ambassador then,   Carolina Barco, a good friend of mine, turned up 
+at my office at the Geographic with a political   leader, Danilo Villafañe and three mamos, one 
+from each of the three cultures.
+
+Entity POS count: 2
+Entity: Danilo Villafañe
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: and | POS: CCONJ 
+Context: In one wintry 
+day in Washington, the Colombian ambassador then,   Carolina Barco, a good friend of mine, turned up 
+at my office at the Geographic with a political   leader, Danilo Villafañe and three mamos, one 
+from each of the three cultures.
+
+Entity POS count: 1
+Entity: Arhuaco
+Entity POS: ['PROPN']
+Previous Word: and | POS: CCONJ 
+Next Word: . | POS: PUNCT 
+Context: Wiwa, Kogi,   and Arhuaco.
+
+Entity POS count: 1
+Entity: BBC
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: had | POS: AUX 
+Context: They were there because the BBC had 
+made a film and the Arhuacos felt they hadn't had   their say and they wanted to make their own film.
+
+
+Entity POS count: 1
+Entity: Danilo
+Entity POS: ['PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: , | POS: PUNCT 
+Context: So they'd come to me and as I'm looking at this   guy, Danilo, he looks so much like an old 
+friend of mine.
+
+Entity POS count: 1
+Entity: FARC
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: and | POS: CCONJ 
+Context: Unfortunately at the   very penultimate stage of the pilgrimage, we were 
+kind of ambushed by the FARC and we had to escape   and turn our cameras over to one of the Wiwa 
+lads that we had trained in cinematography.   
+
+Entity POS count: 1
+Entity: old Descartesian
+Entity POS: ['ADJ']
+Previous Word: old | POS: ADJ 
+Next Word: idea | POS: NOUN 
+Context: They don't 
+buy into the old Descartesian idea that all that   exists is mind and matter, and that only things 
+that can be measured can exist.
+
+Entity POS count: 1
+Entity: fidelity
+Entity POS: ['NOUN']
+Previous Word: our | POS: PRON 
+Next Word: to | POS: ADP 
+Context: We owe our fidelity to the Earth. 
+
+
+Entity POS count: 2
+Entity: Mamo Camilo
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: called | POS: VERB 
+Next Word: , | POS: PUNCT 
+Context: It's funny, when I was first asked by them to go   and be there, when President Santos arrived, one 
+of my close friends, a man called Mamo Camilo,   said to me something very profound.
+
+
+Entity POS count: 1
+Entity: Peace
+Entity POS: ['PROPN']
+Previous Word: " | POS: PUNCT 
+Next Word: wo | POS: AUX 
+Context: He said, "Peace won't matter,"   and this is after 50 years of Colombia's horrific 
+war.
+
+Entity POS count: 1
+Entity: Valledupar
+Entity POS: ['PROPN']
+Previous Word: to | POS: ADP 
+Next Word: on | POS: ADP 
+Context: And as we flew up 
+to Valledupar on the presidential jet from Bogota,   all of the president's aides were peppering him 
+with statistics for his speech in the community   that was going to be broadcast internationally. 
+
+
+Entity POS count: 1
+Entity: Bogota
+Entity POS: ['PROPN']
+Previous Word: from | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: And as we flew up 
+to Valledupar on the presidential jet from Bogota,   all of the president's aides were peppering him 
+with statistics for his speech in the community   that was going to be broadcast internationally. 
+
+
+Entity POS count: 1
+Entity: mambe
+Entity POS: ['NOUN']
+Previous Word: about | POS: ADP 
+Next Word: ? | POS: PUNCT 
+Context: But could you talk a bit about mambe?
+
+Entity POS count: 1
+Entity: Coca
+Entity POS: ['PROPN']
+Previous Word: : | POS: PUNCT 
+Next Word: is | POS: AUX 
+Context: Wade Davis: Coca is a generic term for   two different cultivated species and four 
+different varieties that have been exploited   by people in South America, perhaps as long 
+as 8,000 years, certainly 5,000 years.
+
+Entity POS count: 1
+Entity: Erythroxylum
+Entity POS: ['NOUN']
+Previous Word: 's | POS: AUX 
+Next Word:  
+ | POS: SPACE 
+Context: And the two main types of coca,   one is called Colombian, that's Erythroxylum 
+novogranatense, and the other is a classic coca   of the Southern Andes, of Cusco and Lapas, that is 
+Erythroxylum coca.
+
+Entity POS count: 3
+Entity: the Southern Andes
+Entity POS: ['DET', 'PROPN', 'PROPN']
+Previous Word: of | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: And the two main types of coca,   one is called Colombian, that's Erythroxylum 
+novogranatense, and the other is a classic coca   of the Southern Andes, of Cusco and Lapas, that is 
+Erythroxylum coca.
+
+Entity POS count: 1
+Entity: Cusco
+Entity POS: ['PROPN']
+Previous Word: of | POS: ADP 
+Next Word: and | POS: CCONJ 
+Context: And the two main types of coca,   one is called Colombian, that's Erythroxylum 
+novogranatense, and the other is a classic coca   of the Southern Andes, of Cusco and Lapas, that is 
+Erythroxylum coca.
+
+Entity POS count: 1
+Entity: Lapas
+Entity POS: ['PROPN']
+Previous Word: and | POS: CCONJ 
+Next Word: , | POS: PUNCT 
+Context: And the two main types of coca,   one is called Colombian, that's Erythroxylum 
+novogranatense, and the other is a classic coca   of the Southern Andes, of Cusco and Lapas, that is 
+Erythroxylum coca.
+
+Entity POS count: 3
+Entity: pre-Columbian times
+Entity POS: ['ADJ', 'ADJ', 'ADJ']
+Previous Word: in | POS: ADP 
+Next Word: times | POS: NOUN 
+Context: Now in pre-Columbian times, a   variety of that was taken down the Amazon into the 
+jungles of the northwest Amazon.
+
+Entity POS count: 1
+Entity: Amazon
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: into | POS: ADP 
+Context: Now in pre-Columbian times, a   variety of that was taken down the Amazon into the 
+jungles of the northwest Amazon.
+
+Entity POS count: 1
+Entity: Anaconda
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: , | POS: PUNCT 
+Context: And so in a 
+very interesting way, the peoples of the Anaconda,   all these extraordinary societies, the Barasana, 
+Macuna, Tukano, Cubeo, Ticuna, I mean there's   scores of these extraordinary cultures.
+
+
+Entity POS count: 1
+Entity: Barasana
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: , | POS: PUNCT 
+Context: And so in a 
+very interesting way, the peoples of the Anaconda,   all these extraordinary societies, the Barasana, 
+Macuna, Tukano, Cubeo, Ticuna, I mean there's   scores of these extraordinary cultures.
+
+
+Entity POS count: 3
+Entity: Macuna, Tukano
+Entity POS: ['PROPN', 'PUNCT', 'PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: , | POS: PUNCT 
+Context: And so in a 
+very interesting way, the peoples of the Anaconda,   all these extraordinary societies, the Barasana, 
+Macuna, Tukano, Cubeo, Ticuna, I mean there's   scores of these extraordinary cultures.
+
+
+Entity POS count: 1
+Entity: Cubeo
+Entity POS: ['PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: , | POS: PUNCT 
+Context: And so in a 
+very interesting way, the peoples of the Anaconda,   all these extraordinary societies, the Barasana, 
+Macuna, Tukano, Cubeo, Ticuna, I mean there's   scores of these extraordinary cultures.
+
+
+Entity POS count: 1
+Entity: Ticuna
+Entity POS: ['PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: , | POS: PUNCT 
+Context: And so in a 
+very interesting way, the peoples of the Anaconda,   all these extraordinary societies, the Barasana, 
+Macuna, Tukano, Cubeo, Ticuna, I mean there's   scores of these extraordinary cultures.
+
+
+Entity POS count: 1
+Entity: southern Peru
+Entity POS: ['PROPN']
+Previous Word: southern | POS: ADJ 
+Next Word: , | POS: PUNCT 
+Context: They've learned to take the leaves,   roast them over a clay griddle, and then rather 
+than taking the leaf orally and mixing some kind   of alkaline with it, baking soda or limestone 
+or ashes of certain plants, as you'll see in   the mountains of southern Peru, they add the ash 
+of the leaves of the tree known as yaruma.
+
+Entity POS count: 1
+Entity: Trujillo
+Entity POS: ['PROPN']
+Previous Word: to | POS: ADP 
+Next Word: in | POS: ADP 
+Context: And that coca was taken down the coast 
+to Trujillo in the northern desert of Peru.
+
+Entity POS count: 1
+Entity: Inca
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: . | POS: PUNCT 
+Context: And   that became the preferred coca of the Inca. 
+
+
+Entity POS count: 3
+Entity: Coca-Cola imports
+Entity POS: ['PROPN', 'PUNCT', 'PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: imports | POS: NOUN 
+Context: It's got a little wintergreen oil in it, it's   Erythroxylum novogranatense variety truxillense, 
+and that of course was a preferred coca that to   this day, Coca-Cola imports each year by the 
+ton allowing their beverage to really be the   real thing.
+
+Entity POS count: 2
+Entity: Tim Plowman
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: with | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: The fascinating story, Tim, is 
+that I worked with Tim Plowman, a protege of   my professor Schultes, Mark's professor, in the 
+'70s, and we were charged to work out the botany,   the ethnobotany, the ethnography of coca.
+
+
+Entity POS count: 1
+Entity: professor Schultes
+Entity POS: ['PROPN']
+Previous Word: professor | POS: NOUN 
+Next Word: , | POS: PUNCT 
+Context: The fascinating story, Tim, is 
+that I worked with Tim Plowman, a protege of   my professor Schultes, Mark's professor, in the 
+'70s, and we were charged to work out the botany,   the ethnobotany, the ethnography of coca.
+
+
+Entity POS count: 1
+Entity: Mark
+Entity POS: ['PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: 's | POS: PART 
+Context: The fascinating story, Tim, is 
+that I worked with Tim Plowman, a protege of   my professor Schultes, Mark's professor, in the 
+'70s, and we were charged to work out the botany,   the ethnobotany, the ethnography of coca.
+
+
+Entity POS count: 1
+Entity: Andes
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: , | POS: PUNCT 
+Context: It turns 
+out that these two sacred plants used for   8,000 years, revered as a divine leaf of 
+immortality by every culture in the Andes,   all come from the same wild ancestor, a 
+species known as Erythroxylum gracilipes,   which grows along the eastern flanks of the 
+Andes.
+
+Entity POS count: 1
+Entity: Lima
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: in | POS: ADP 
+Context: In 
+the 1920s, physicians in Lima in particular   looked up into the Andes and their concern for 
+the well-being of Andean people was matched in   intensity only by their ignorance of Andean life. 
+
+
+Entity POS count: 1
+Entity: Andean people
+Entity POS: ['ADJ']
+Previous Word: of | POS: ADP 
+Next Word: people | POS: NOUN 
+Context: In 
+the 1920s, physicians in Lima in particular   looked up into the Andes and their concern for 
+the well-being of Andean people was matched in   intensity only by their ignorance of Andean life. 
+
+
+Entity POS count: 2
+Entity: Andrew Weil
+Entity POS: ['PROPN', 'PROPN']
+Previous Word:     | POS: SPACE 
+Next Word: , | POS: PUNCT 
+Context: And when we finally did that in the mid-1970s,   Andrew Weil, Tim Plowman, Jim Duke at the USDA, 
+we discovered, horrified our backers at the DEA   and the US government, because it turns out 
+that coca has a tiny amount of cocaine in it,   absorbed benignly as a mild stimulant by the mucus 
+membrane of the mouth, absolutely without harm.  
+
+Entity POS count: 2
+Entity: Jim Duke
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: at | POS: ADP 
+Context: And when we finally did that in the mid-1970s,   Andrew Weil, Tim Plowman, Jim Duke at the USDA, 
+we discovered, horrified our backers at the DEA   and the US government, because it turns out 
+that coca has a tiny amount of cocaine in it,   absorbed benignly as a mild stimulant by the mucus 
+membrane of the mouth, absolutely without harm.  
+
+Entity POS count: 1
+Entity: USDA
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: , | POS: PUNCT 
+Context: And when we finally did that in the mid-1970s,   Andrew Weil, Tim Plowman, Jim Duke at the USDA, 
+we discovered, horrified our backers at the DEA   and the US government, because it turns out 
+that coca has a tiny amount of cocaine in it,   absorbed benignly as a mild stimulant by the mucus 
+membrane of the mouth, absolutely without harm.  
+
+Entity POS count: 1
+Entity: DEA
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word:     | POS: SPACE 
+Context: And when we finally did that in the mid-1970s,   Andrew Weil, Tim Plowman, Jim Duke at the USDA, 
+we discovered, horrified our backers at the DEA   and the US government, because it turns out 
+that coca has a tiny amount of cocaine in it,   absorbed benignly as a mild stimulant by the mucus 
+membrane of the mouth, absolutely without harm.  
+
+Entity POS count: 1
+Entity: US government
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: government | POS: NOUN 
+Context: And when we finally did that in the mid-1970s,   Andrew Weil, Tim Plowman, Jim Duke at the USDA, 
+we discovered, horrified our backers at the DEA   and the US government, because it turns out 
+that coca has a tiny amount of cocaine in it,   absorbed benignly as a mild stimulant by the mucus 
+membrane of the mouth, absolutely without harm.  
+
+Entity POS count: 1
+Entity: Datura stramonium
+Entity POS: ['PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: stramonium | POS: NOUN 
+Context: But I would love to hear you expand on TTX and 
+Datura stramonium, if I'm pronouncing that right,   and how you came across these two in combination. 
+
+
+Entity POS count: 1
+Entity: Jimson weed
+Entity POS: ['PROPN']
+Previous Word:     | POS: SPACE 
+Next Word: weed | POS: NOUN 
+Context: Because I think Datura stramonium, also known as   Jimson weed, if I'm not getting that —
+Wade Davis:
+
+Entity POS count: 1
+Entity: Texas
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: Tim Ferriss: — incorrect, grows right in 
+my driveway in Texas.
+
+Entity POS count: 1
+Entity: Haiti
+Entity POS: ['PROPN']
+Previous Word: to | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: And I had studied anthropology, but I never really 
+understood the real message of anthropology until   I went to Haiti.
+
+Entity POS count: 2
+Entity: Nathan Kline
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: of | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: But what happened is that a very well-known   psychopharmacologist by the name of Nathan Kline, 
+psychopharmacology being the study of the action   of drugs on the brain, had been going to Haiti 
+for many years.
+
+Entity POS count: 2
+Entity: McGill University
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: at | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: A close colleague 
+of his at McGill University, Heinz Lehmann,   had a former student, Lamarque Douyon, who is 
+now the director of that psychiatric institute.   
+
+Entity POS count: 2
+Entity: Heinz Lehmann
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: , | POS: PUNCT 
+Context: A close colleague 
+of his at McGill University, Heinz Lehmann,   had a former student, Lamarque Douyon, who is 
+now the director of that psychiatric institute.   
+
+Entity POS count: 2
+Entity: Lamarque Douyon
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: , | POS: PUNCT 
+Context: A close colleague 
+of his at McGill University, Heinz Lehmann,   had a former student, Lamarque Douyon, who is 
+now the director of that psychiatric institute.   
+
+Entity POS count: 2
+Entity: psychiatric institute
+Entity POS: ['PROPN', 'NOUN']
+Previous Word: that | POS: DET 
+Next Word: . | POS: PUNCT 
+Context: A close colleague 
+of his at McGill University, Heinz Lehmann,   had a former student, Lamarque Douyon, who is 
+now the director of that psychiatric institute.   
+
+Entity POS count: 1
+Entity: Douyon
+Entity POS: ['PROPN']
+Previous Word: And | POS: CCONJ 
+Next Word: was | POS: AUX 
+Context: And Douyon was fascinated by the Haitian zombie 
+phenomena, and of course by folkloric belief,   the zombie is a living dead.
+
+Entity POS count: 1
+Entity: Haitian zombie
+Entity POS: ['ADJ']
+Previous Word: the | POS: DET 
+Next Word: zombie | POS: NOUN 
+Context: And Douyon was fascinated by the Haitian zombie 
+phenomena, and of course by folkloric belief,   the zombie is a living dead.
+
+Entity POS count: 2
+Entity: Clairvius Narcisse
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: called | POS: VERB 
+Next Word: , | POS: PUNCT 
+Context: And finally he discovered this remarkable 
+story of a man called Clairvius Narcisse,   who in the early 1960s had been misdiagnosed 
+dead, or he been diagnosed dead by two physicians,   both American-trained and one an the American, in 
+the Albert Schweitzer Hospital in Central Haiti,   an American-directed institution that keeps 
+impeccable records.
+
+Entity POS count: 1
+Entity: American
+Entity POS: ['PROPN']
+Previous Word: both | POS: PRON 
+Next Word: - | POS: PUNCT 
+Context: And finally he discovered this remarkable 
+story of a man called Clairvius Narcisse,   who in the early 1960s had been misdiagnosed 
+dead, or he been diagnosed dead by two physicians,   both American-trained and one an the American, in 
+the Albert Schweitzer Hospital in Central Haiti,   an American-directed institution that keeps 
+impeccable records.
+
+Entity POS count: 4
+Entity: the Albert Schweitzer Hospital
+Entity POS: ['DET', 'PROPN', 'PROPN', 'PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: in | POS: ADP 
+Context: And finally he discovered this remarkable 
+story of a man called Clairvius Narcisse,   who in the early 1960s had been misdiagnosed 
+dead, or he been diagnosed dead by two physicians,   both American-trained and one an the American, in 
+the Albert Schweitzer Hospital in Central Haiti,   an American-directed institution that keeps 
+impeccable records.
+
+Entity POS count: 2
+Entity: Central Haiti
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: in | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: And finally he discovered this remarkable 
+story of a man called Clairvius Narcisse,   who in the early 1960s had been misdiagnosed 
+dead, or he been diagnosed dead by two physicians,   both American-trained and one an the American, in 
+the Albert Schweitzer Hospital in Central Haiti,   an American-directed institution that keeps 
+impeccable records.
+
+Entity POS count: 1
+Entity: Narcisse
+Entity POS: ['PROPN']
+Previous Word: be | POS: AUX 
+Next Word: later | POS: ADV 
+Context: And this man claiming   to be Narcisse later walked into his village in 
+about 1980, '81, claiming to be the long-lost   brother.
+
+Entity POS count: 2
+Entity: Scotland Yard
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: . | POS: PUNCT 
+Next Word: verified | POS: VERB 
+Context: Scotland Yard verified 
+with their forensic expertise, the fingerprints   that belonged to the sister of the deceased.
+
+
+Entity POS count: 1
+Entity: Lehmann
+Entity POS: ['PROPN']
+Previous Word: and | POS: CCONJ 
+Next Word: and | POS: CCONJ 
+Context: So the   bottom line is that Douyon and Lehmann and Dr. 
+Kline went public saying they felt they had found   the first zombie.
+
+Entity POS count: 1
+Entity: Kline
+Entity POS: ['PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: went | POS: VERB 
+Context: So the   bottom line is that Douyon and Lehmann and Dr. 
+Kline went public saying they felt they had found   the first zombie.
+
+Entity POS count: 1
+Entity: Harvard
+Entity POS: ['PROPN']
+Previous Word: to | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: So they came to Harvard, Schultes said he was too   old to go, but he said he knew someone who could 
+do the job.
+
+Entity POS count: 1
+Entity: Dominican women
+Entity POS: ['ADJ']
+Previous Word: of | POS: ADP 
+Next Word: women | POS: NOUN 
+Context: He had a   whorehouse and a bunch of Dominican women and he 
+had been a junior member of the Tonton Macoutes.   
+
+Entity POS count: 3
+Entity: the Tonton Macoutes
+Entity POS: ['DET', 'PROPN', 'PROPN']
+Previous Word: of | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: He had a   whorehouse and a bunch of Dominican women and he 
+had been a junior member of the Tonton Macoutes.   
+
+Entity POS count: 1
+Entity: Tonton
+Entity POS: ['PROPN']
+Previous Word: . | POS: PUNCT 
+Next Word: in | POS: ADP 
+Context: Tonton in Creole   means "Uncle."
+
+Entity POS count: 1
+Entity: Creole
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word:     | POS: SPACE 
+Context: Tonton in Creole   means "Uncle."
+
+Entity POS count: 1
+Entity: Uncle
+Entity POS: ['PROPN']
+Previous Word: " | POS: PUNCT 
+Next Word: . | POS: PUNCT 
+Context: Tonton in Creole   means "Uncle."
+
+Entity POS count: 1
+Entity: Macoute
+Entity POS: ['PROPN']
+Previous Word: " | POS: PUNCT 
+Next Word: means | POS: VERB 
+Context: Macoute means "shoulder bag.
+
+Entity POS count: 2
+Entity: François Duvalier
+Entity POS: ['PROPN', 'PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: in | POS: ADP 
+Context: The militia that was set up by 
+François Duvalier in the wake of his presidential   election in 1957.
+
+Entity POS count: 1
+Entity: Duvalier
+Entity POS: ['PROPN']
+Previous Word: because | POS: SCONJ 
+Next Word: was | POS: AUX 
+Context: And this is a pivotal part 
+of the story because Duvalier was the first   president in a hundred years to say that Vodou 
+was legitimate religion.
+
+Entity POS count: 1
+Entity: Vodou
+Entity POS: ['PROPN']
+Previous Word: that | POS: SCONJ 
+Next Word:  
+ | POS: SPACE 
+Context: And this is a pivotal part 
+of the story because Duvalier was the first   president in a hundred years to say that Vodou 
+was legitimate religion.
+
+Entity POS count: 1
+Entity: Baron Samedi
+Entity POS: ['PROPN']
+Previous Word: Baron | POS: PROPN 
+Next Word: , | POS: PUNCT 
+Context: He wore the costume 
+of Baron Samedi, the guardian of the dead,   of the graveyard.
+
+Entity POS count: 1
+Entity: Marcel
+Entity POS: ['PROPN']
+Previous Word: with | POS: ADP 
+Next Word:  
+ | POS: SPACE 
+Context: And so I went out with Marcel 
+after this bit of theater that we did to — it was   kind of funny.
+
+Entity POS count: 2
+Entity: Max Beauvoir
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: , | POS: PUNCT 
+Context: Well, what happened was I went to   him with a good friend of mine, Max Beauvoir, who, 
+when he died, was sort of heralded as a Pope of   Vodou, an amazing kind of conduit for the outside 
+world to understand Vodou.
+
+Entity POS count: 1
+Entity: Fon word
+Entity POS: ['PROPN']
+Previous Word: a | POS: DET 
+Next Word: word | POS: NOUN 
+Context: It's a Fon word from Dahomey or Benin that means 
+"spirit" or "god."
+
+Entity POS count: 1
+Entity: Dahomey
+Entity POS: ['PROPN']
+Previous Word: from | POS: ADP 
+Next Word: or | POS: CCONJ 
+Context: It's a Fon word from Dahomey or Benin that means 
+"spirit" or "god."
+
+Entity POS count: 1
+Entity: Benin
+Entity POS: ['PROPN']
+Previous Word: or | POS: CCONJ 
+Next Word: that | POS: PRON 
+Context: It's a Fon word from Dahomey or Benin that means 
+"spirit" or "god."
+
+Entity POS count: 1
+Entity: Candomblé
+Entity POS: ['PROPN']
+Previous Word:     | POS: SPACE 
+Next Word: in | POS: ADP 
+Context: That's why you have Hoodoo in the American South,   Candomblé in Brazil, Obeah in Jamaica, and so on — 
+Santería in the DR, and of course, Vodou in Haiti.  
+
+Entity POS count: 1
+Entity: Brazil
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: That's why you have Hoodoo in the American South,   Candomblé in Brazil, Obeah in Jamaica, and so on — 
+Santería in the DR, and of course, Vodou in Haiti.  
+
+Entity POS count: 1
+Entity: Obeah
+Entity POS: ['PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: in | POS: ADP 
+Context: That's why you have Hoodoo in the American South,   Candomblé in Brazil, Obeah in Jamaica, and so on — 
+Santería in the DR, and of course, Vodou in Haiti.  
+
+Entity POS count: 1
+Entity: Jamaica
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: That's why you have Hoodoo in the American South,   Candomblé in Brazil, Obeah in Jamaica, and so on — 
+Santería in the DR, and of course, Vodou in Haiti.  
+
+Entity POS count: 1
+Entity: Santería
+Entity POS: ['PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: in | POS: ADP 
+Context: That's why you have Hoodoo in the American South,   Candomblé in Brazil, Obeah in Jamaica, and so on — 
+Santería in the DR, and of course, Vodou in Haiti.  
+
+Entity POS count: 1
+Entity: DR
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: , | POS: PUNCT 
+Context: That's why you have Hoodoo in the American South,   Candomblé in Brazil, Obeah in Jamaica, and so on — 
+Santería in the DR, and of course, Vodou in Haiti.  
+
+Entity POS count: 1
+Entity: independent Black
+Entity POS: ['PROPN']
+Previous Word: independent | POS: ADJ 
+Next Word:  
+ | POS: SPACE 
+Context: And Vodou took a particular strong form in 
+Haiti because as opposed to the other countries   I mentioned, Haiti was an independent Black 
+country, the only one in the world for a century,   gained its independence in 1804.
+
+Entity POS count: 2
+Entity: Bwè! Bwè
+Entity POS: ['PROPN', 'PUNCT']
+Previous Word: " | POS: PUNCT 
+Next Word: Bwè | POS: PROPN 
+Context: And then all the Dominican girls started going,   "Bwè!
+
+Entity POS count: 1
+Entity: gore
+Entity POS: ['PROPN']
+Previous Word: and | POS: CCONJ 
+Next Word: of | POS: ADP 
+Context: And then we went into the inner 
+sanctum, the temple, and he took a bottle of raw   alcohol with human remains in it and all kinds of 
+animals and gore of one sort or the other, and he   handed it to me and I took a big drink and handed 
+it right back to him.
+
+Entity POS count: 3
+Entity: Ki kalite Blan
+Entity POS: ['PROPN', 'PROPN', 'PROPN']
+Previous Word: " | POS: PUNCT 
+Next Word: say | POS: VERB 
+Context: And I think   it was the first time of many times that a Haitian 
+would say to me, "Ki kalite Blan say ou?" — "What   kind of White are you, anyway?"
+
+Entity POS count: 1
+Entity: White
+Entity POS: ['PROPN']
+Previous Word: of | POS: ADP 
+Next Word: are | POS: AUX 
+Context: And I think   it was the first time of many times that a Haitian 
+would say to me, "Ki kalite Blan say ou?" — "What   kind of White are you, anyway?"
+
+Entity POS count: 2
+Entity: Easter Sunday
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: was | POS: AUX 
+Next Word:     | POS: SPACE 
+Context: But the funny 
+part of this story is that it was Easter Sunday   when I returned to the United States through JFK 
+airport, and I had this suitcase made of surplus   7UP tin cans that was filled to the gunnels with 
+human bones, all the ingredients in various forms.   
+
+Entity POS count: 3
+Entity: the United States
+Entity POS: ['DET', 'PROPN', 'PROPN']
+Previous Word: to | POS: ADP 
+Next Word: through | POS: ADP 
+Context: But the funny 
+part of this story is that it was Easter Sunday   when I returned to the United States through JFK 
+airport, and I had this suitcase made of surplus   7UP tin cans that was filled to the gunnels with 
+human bones, all the ingredients in various forms.   
+
+Entity POS count: 1
+Entity: JFK
+Entity POS: ['PROPN']
+Previous Word: through | POS: ADP 
+Next Word:  
+ | POS: SPACE 
+Context: But the funny 
+part of this story is that it was Easter Sunday   when I returned to the United States through JFK 
+airport, and I had this suitcase made of surplus   7UP tin cans that was filled to the gunnels with 
+human bones, all the ingredients in various forms.   
+
+Entity POS count: 2
+Entity: live Bufo marinus
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: live | POS: ADJ 
+Next Word: toad | POS: NOUN 
+Context: I had a live Bufo marinus toad in my backpack, 
+the biggest toad in the world, 10 inches across,   and I had no permits.
+
+Entity POS count: 2
+Entity: New York
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: a | POS: DET 
+Next Word:     | POS: SPACE 
+Context: Wade Davis: He literally said in a New York   accent, "Look, it's Easter fucking Sunday.
+
+Entity POS count: 1
+Entity: America
+Entity POS: ['PROPN']
+Previous Word: into | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: And that's how the zombie   poison came into America.
+
+
+Entity POS count: 6
+Entity: the Museum 
+of Comparative Zoology
+Entity POS: ['DET', 'PROPN', 'SPACE', 'ADP', 'PROPN', 'PROPN']
+Previous Word: of | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: And I went to see   the ichthyologist in the basement of the Museum 
+of Comparative Zoology.
+
+Entity POS count: 4
+Entity: The Journal of Ichthyology
+Entity POS: ['DET', 'PROPN', 'ADP', 'PROPN']
+Previous Word: out | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: And as he heard 
+me, he bounced his head against the teeth, pulled   his head out and said, "I thought you were the 
+poison people" because our museum was the world   center for the study of medicinal toxic plants and 
+hallucinogens, and then he goes to the shelf and   he doesn't pull out The Journal of Ichthyology, 
+he pulls out a pocketbook dimestore novel,   and it turns out to be written by Ian Fleming.
+
+
+Entity POS count: 2
+Entity: Ian Fleming
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: by | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: And as he heard 
+me, he bounced his head against the teeth, pulled   his head out and said, "I thought you were the 
+poison people" because our museum was the world   center for the study of medicinal toxic plants and 
+hallucinogens, and then he goes to the shelf and   he doesn't pull out The Journal of Ichthyology, 
+he pulls out a pocketbook dimestore novel,   and it turns out to be written by Ian Fleming.
+
+
+Entity POS count: 1
+Entity: Russia
+Entity POS: ['PROPN']
+Previous Word: From | POS: ADP 
+Next Word: with | POS: ADP 
+Context: And it was either From Russia with Love or from   Dr. No.
+
+Entity POS count: 1
+Entity: Love
+Entity POS: ['PROPN']
+Previous Word: with | POS: ADP 
+Next Word: or | POS: CCONJ 
+Context: And it was either From Russia with Love or from   Dr. No.
+
+Entity POS count: 1
+Entity: Japan
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: And when you looked at the symptoms 
+of Narcisse, they match perfectly the symptoms   of victims of fugu fish poisoning in Japan.
+
+Entity POS count: 1
+Entity: Bizango
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: , | POS: PUNCT 
+Context: And the end,   I was able to become the first person from outside 
+of Haiti ever to be initiated into the Bizango,   Sanpwèl, the secret societies that produced 
+the Tonton Macoutes, and I was able to at least   suggest that zombification was a form of ultimate 
+social sanction in which the individual lost their   personal autonomy and their physical freedom and 
+became cast into a state of purgatory that was,   in a sense, worse than death.
+
+
+Entity POS count: 1
+Entity: Sanpwèl
+Entity POS: ['PROPN']
+Previous Word:     | POS: SPACE 
+Next Word: , | POS: PUNCT 
+Context: And the end,   I was able to become the first person from outside 
+of Haiti ever to be initiated into the Bizango,   Sanpwèl, the secret societies that produced 
+the Tonton Macoutes, and I was able to at least   suggest that zombification was a form of ultimate 
+social sanction in which the individual lost their   personal autonomy and their physical freedom and 
+became cast into a state of purgatory that was,   in a sense, worse than death.
+
+
+Entity POS count: 2
+Entity: Tonton Macoutes
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: the | POS: DET 
+Next Word: , | POS: PUNCT 
+Context: And the end,   I was able to become the first person from outside 
+of Haiti ever to be initiated into the Bizango,   Sanpwèl, the secret societies that produced 
+the Tonton Macoutes, and I was able to at least   suggest that zombification was a form of ultimate 
+social sanction in which the individual lost their   personal autonomy and their physical freedom and 
+became cast into a state of purgatory that was,   in a sense, worse than death.
+
+
+Entity POS count: 1
+Entity: India
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: eat | POS: VERB 
+Context: Why don't the people in India eat   cows?
+
+Entity POS count: 1
+Entity: solanaceae
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: , | POS: PUNCT 
+Context: Datura is in the solanaceae, the potato family, 
+the family of choice of black magicians around the   world.
+
+Entity POS count: 1
+Entity: tree Daturas
+Entity POS: ['NOUN']
+Previous Word: tree | POS: NOUN 
+Next Word: , | POS: PUNCT 
+Context: The tree Daturas, the brugmansias in South 
+America, are known as the jaguar's intoxicant,   the tree of the evil eagle.
+
+Entity POS count: 3
+Entity: South 
+America
+Entity POS: ['PROPN', 'SPACE', 'PROPN']
+Previous Word: in | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: The tree Daturas, the brugmansias in South 
+America, are known as the jaguar's intoxicant,   the tree of the evil eagle.
+
+Entity POS count: 1
+Entity: Herard
+Entity POS: ['PROPN']
+Previous Word: asked | POS: VERB 
+Next Word:     | POS: SPACE 
+Context: I once asked Herard   if during the revolution he had ever killed 
+anybody.
+
+Entity POS count: 1
+Entity: Awajún
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: or | POS: CCONJ 
+Context: And   part of the reason I was asking about the Datura, 
+as I do have some familiarity with brugmansia   and have had some exposure to the Awajún or the 
+Aguarunas who use it pretty extensively for not   just dark purposes or power purposes, but for many 
+different conditions.
+
+Entity POS count: 1
+Entity: Aguarunas
+Entity POS: ['PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: who | POS: PRON 
+Context: And   part of the reason I was asking about the Datura, 
+as I do have some familiarity with brugmansia   and have had some exposure to the Awajún or the 
+Aguarunas who use it pretty extensively for not   just dark purposes or power purposes, but for many 
+different conditions.
+
+Entity POS count: 1
+Entity: burundanga
+Entity POS: ['PROPN']
+Previous Word: called | POS: VERB 
+Next Word: . | POS: PUNCT 
+Context: But my understanding is that   also organized crime, I want to say in Colombia, 
+for a period of time, was using brugmansia seeds,   which I think they're called burundanga.
+
+Entity POS count: 2
+Entity: San Agustín
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: in | POS: ADP 
+Next Word: with | POS: ADP 
+Context: I was once in San Agustín with a 
+Colombian and this Australian kind of hippie guy,   this is back in the early '70s, and he spoke 
+about how he ate a bunch of tree Datura in his   hotel on the coast and ended up walking around 
+naked, the Barranquilla, a public market for   five days before he was finally arrested.
+
+Entity POS count: 1
+Entity: Australian kind
+Entity POS: ['ADJ']
+Previous Word: this | POS: DET 
+Next Word: kind | POS: NOUN 
+Context: I was once in San Agustín with a 
+Colombian and this Australian kind of hippie guy,   this is back in the early '70s, and he spoke 
+about how he ate a bunch of tree Datura in his   hotel on the coast and ended up walking around 
+naked, the Barranquilla, a public market for   five days before he was finally arrested.
+
+Entity POS count: 1
+Entity: Barranquilla
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: , | POS: PUNCT 
+Context: I was once in San Agustín with a 
+Colombian and this Australian kind of hippie guy,   this is back in the early '70s, and he spoke 
+about how he ate a bunch of tree Datura in his   hotel on the coast and ended up walking around 
+naked, the Barranquilla, a public market for   five days before he was finally arrested.
+
+Entity POS count: 1
+Entity: Magdalena
+Entity POS: ['PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: , | POS: PUNCT 
+Context: But I'll tell you in my book, Magdalena, about 
+the Great River of Colombia, there's a story of   my good friend William Vargas, who was on 
+his way to university.
+
+Entity POS count: 5
+Entity: the Great River of Colombia
+Entity POS: ['DET', 'PROPN', 'PROPN', 'ADP', 'PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: , | POS: PUNCT 
+Context: But I'll tell you in my book, Magdalena, about 
+the Great River of Colombia, there's a story of   my good friend William Vargas, who was on 
+his way to university.
+
+Entity POS count: 2
+Entity: friend William Vargas
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: friend | POS: NOUN 
+Next Word: , | POS: PUNCT 
+Context: But I'll tell you in my book, Magdalena, about 
+the Great River of Colombia, there's a story of   my good friend William Vargas, who was on 
+his way to university.
+
+Entity POS count: 3
+Entity: Richard Evans Schultes
+Entity POS: ['PROPN', 'PROPN', 'PROPN']
+Previous Word: mentioned | POS: VERB 
+Next Word: . | POS: PUNCT 
+Context: And you mentioned Richard Evans Schultes.   
+
+Entity POS count: 4
+Entity: David Maybury-Lewis
+Entity POS: ['PROPN', 'PROPN', 'PUNCT', 'PROPN']
+Previous Word: is | POS: AUX 
+Next Word: , | POS: PUNCT 
+Context: I've had a number of discussions about him 
+on the podcast before, so he may come up,   but I would actually like to invoke a 
+different name, which is David Maybury-Lewis,   if I'm pronouncing that correctly.
+
+Entity POS count: 1
+Entity: PhD
+Entity POS: ['NOUN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: at | POS: ADP 
+Context: I got my 
+PhD at Harvard, but I began as an anthropologist.   
+
+Entity POS count: 1
+Entity: great Americanists
+Entity POS: ['PROPN']
+Previous Word: great | POS: ADJ 
+Next Word: . | POS: PUNCT 
+Context: He was one of the great Americanists.
+
+Entity POS count: 1
+Entity: Xavante
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: and | POS: CCONJ 
+Context: He   had traveled into the heart of Brazil in the 1950s 
+to live amongst the Xavante and, before that,   the Xerente, who at the time were said to be 
+the most feared indigenous groups in Brazil.   
+
+Entity POS count: 1
+Entity: Xerente
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: , | POS: PUNCT 
+Context: He   had traveled into the heart of Brazil in the 1950s 
+to live amongst the Xavante and, before that,   the Xerente, who at the time were said to be 
+the most feared indigenous groups in Brazil.   
+
+Entity POS count: 2
+Entity: Cultural Survival
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: created | POS: VERB 
+Next Word: with | POS: ADP 
+Context: And while I was with 
+him, he created Cultural Survival with his wife,   Pia.
+
+Entity POS count: 1
+Entity: Pia
+Entity POS: ['PROPN']
+Previous Word:     | POS: SPACE 
+Next Word: . | POS: PUNCT 
+Context: And while I was with 
+him, he created Cultural Survival with his wife,   Pia.
+
+Entity POS count: 1
+Entity: David
+Entity POS: ['PROPN']
+Previous Word: with | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: And that was something that I had in the fiber 
+of my DNA because of my association with David.   
+
+Entity POS count: 1
+Entity: Inuit
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: in | POS: ADP 
+Context: If you want to live with   the Inuit in the high Arctic, you better become 
+a hunter, because that is a measure of a man.  
+
+Entity POS count: 1
+Entity: Loa
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: . | POS: PUNCT 
+Context: If you want to engage the priests in Haiti, 
+you have to serve the Loa.
+
+Entity POS count: 1
+Entity: most ethnobotanists
+Entity POS: ['NOUN']
+Previous Word: most | POS: ADJ 
+Next Word:  
+ | POS: SPACE 
+Context: At the same time, most ethnobotanists 
+of my generation were notoriously uneducated when   it came to the nuances of anthropology and 
+ethnography.
+
+Entity POS count: 5
+Entity: the University of British Columbia
+Entity POS: ['DET', 'PROPN', 'ADP', 'PROPN', 'PROPN']
+Previous Word: at | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: And in that sense,   all of my ideas that I have been exploring 
+through the 13 years at the Geographic,   the decade as a professor of anthropology 
+at the University of British Columbia,   everything traces back to David.
+
+
+Entity POS count: 2
+Entity: Terence McKenna
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: as | POS: SCONJ 
+Next Word: always | POS: ADV 
+Context: And as Terence McKenna always said,   "The great lesson of life is that when 
+you do that, you don't land on rock,   you land on a feather bed.
+
+Entity POS count: 2
+Entity: Jim Whittaker
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: " | POS: PUNCT 
+Next Word: , | POS: PUNCT 
+Context: Jim Whittaker,   the great climber, good friend of mine, said that 
+"If you're not living on the edge when young,   you're taking up too much space."
+
+Entity POS count: 1
+Entity: old Gitxsan
+Entity POS: ['PROPN']
+Previous Word: old | POS: ADJ 
+Next Word: elder | POS: NOUN 
+Context: And those mentors 
+could be an old Gitxsan elder who I recorded   mythology with and hunted with for 40 years. 
+
+
+Entity POS count: 1
+Entity: bush
+Entity POS: ['NOUN']
+Previous Word: the | POS: DET 
+Next Word: . | POS: PUNCT 
+Context: It could be an engineer who taught me how to   understand the complexities of industrial logging 
+when I spent a year in the bush.
+
+Entity POS count: 1
+Entity: Charlie
+Entity POS: ['PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: . | POS: PUNCT 
+Context: They're 
+reaching out to you and all you have to say is,   "Wonderful idea, Charlie.
+
+Entity POS count: 1
+Entity: Isidoro
+Entity POS: ['PROPN']
+Previous Word: called | POS: VERB 
+Next Word:  
+ | POS: SPACE 
+Context: And with him   on all those collections was a man called Isidoro 
+Cabrera.
+
+Entity POS count: 1
+Entity: Cabrera
+Entity POS: ['PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: . | POS: PUNCT 
+Context: And with him   on all those collections was a man called Isidoro 
+Cabrera.
+
+Entity POS count: 3
+Entity: Plowman and Davis
+Entity POS: ['PROPN', 'CCONJ', 'PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: , | POS: PUNCT 
+Context: So Tim Plowman and Wade Davis, Plowman and Davis,   and that's how you do it on the specimens; it's 
+kind of a formal thing.
+
+Entity POS count: 1
+Entity: Cali
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: And before he died, 
+when I was writing the book One River, I went   to see Isidoro in Cali.
+
+Entity POS count: 1
+Entity: Macarena
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: I want you   to remember the first moment you met Professor 
+Schultes in the forest, in Macarena.
+
+Entity POS count: 1
+Entity: Jim
+Entity POS: ['PROPN']
+Previous Word: also | POS: ADV 
+Next Word:  
+ | POS: SPACE 
+Context: And I 
+want to come back to, I suppose,   frames and lenses for a moment, and also Jim 
+Whittaker.
+
+Entity POS count: 1
+Entity: Whittaker
+Entity POS: ['PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: . | POS: PUNCT 
+Context: And I 
+want to come back to, I suppose,   frames and lenses for a moment, and also Jim 
+Whittaker.
+
+Entity POS count: 1
+Entity: Everest
+Entity POS: ['PROPN']
+Previous Word: summit | POS: VERB 
+Next Word: , | POS: PUNCT 
+Context: So for those who don't know, the first   American to summit Everest, if my research is not 
+lying to me.
+
+Entity POS count: 1
+Entity: Angelou
+Entity POS: ['PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: , | POS: PUNCT 
+Context: And there's a line that I   would like to explore because I think it's Maya 
+Angelou, if I'm pronouncing her name correctly,   said that courage is the mother virtue that 
+unlocks all other virtues.
+
+Entity POS count: 2
+Entity: White House
+Entity POS: ['PROPN', 'PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: . | POS: PUNCT 
+Context: People of color, from the woodshed to the 
+White House.
+
+Entity POS count: 1
+Entity: Apollo
+Entity POS: ['PROPN']
+Previous Word: when | POS: SCONJ 
+Next Word: went | POS: VERB 
+Context: So   what's not to love about a world capable of such 
+social transformation, such scientific genius?  Just think about that moment on Christmas Eve, 
+1968 when Apollo went around the dark side of   the moon and emerged to see, for the first time 
+in human history, not a sunrise or a moonrise,   but an Earthrise.
+
+Entity POS count: 1
+Entity: Christian tradition
+Entity POS: ['ADJ']
+Previous Word: the | POS: DET 
+Next Word: tradition | POS: NOUN 
+Context: And it was incredibly wise, because we have 
+this sort of thing in the Christian tradition,   particularly, that if we just wait long enough, 
+good's going to triumph over evil
+
+Entity POS count: 1
+Entity: Rapture
+Entity POS: ['NOUN']
+Previous Word: the | POS: DET 
+Next Word: . | POS: PUNCT 
+Context: and we'll all   somehow be dissolved in the Rapture.
+
+Entity POS count: 1
+Entity: Indian tradition
+Entity POS: ['ADJ']
+Previous Word: the | POS: DET 
+Next Word: tradition | POS: NOUN 
+Context: But in 
+the Indian tradition, the Vedic tradition,   by contrast, when Lord Krishna was asked 
+that very question, "If God's all powerful,   why does he allow evil to exist in the universe?" 
+Lord Krishna said to the disciple, "To thicken   the plot."
+
+Entity POS count: 1
+Entity: Lord Krishna
+Entity POS: ['PROPN']
+Previous Word: Lord | POS: PROPN 
+Next Word: was | POS: AUX 
+Context: But in 
+the Indian tradition, the Vedic tradition,   by contrast, when Lord Krishna was asked 
+that very question, "If God's all powerful,   why does he allow evil to exist in the universe?" 
+Lord Krishna said to the disciple, "To thicken   the plot."
+
+Entity POS count: 1
+Entity: Vietnam
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: And because of that, you 
+can keep fighting with the same idealism,   the same energy when you're 69 years old, as 
+I am today, that I had when I was 20 years old   and marching against the war in Vietnam.
+
+
+Entity POS count: 1
+Entity: Spatsizi
+Entity POS: ['PROPN']
+Previous Word: but | POS: CCONJ 
+Next Word: . | POS: PUNCT 
+Context: And I would love 
+for you to describe a chapter in your life,   and I'm most certainly going to butcher this 
+pronunciation, but Spatsizi.
+
+Entity POS count: 2
+Entity: Red Goat
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: . | POS: PUNCT 
+Next Word: . | POS: PUNCT 
+Context: Red Goat.
+
+
+Entity POS count: 1
+Entity: Algonquins
+Entity POS: ['PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: , | POS: PUNCT 
+Context: It's not a coincidence 
+or an accident that they involve pain, whether   it's scarification, whether it's the severing of 
+the foreskin, whether it's the pain of ordeal,   the ingestion — I mean, for example, the 
+Algonquins, speaking of Datura, their initiation   rite was to put the young lads in the long house, 
+seal it shut, and make them eat Datura for two   weeks, so that they would forget what it was 
+to become boys, to learn what it was to be men.  
+
+Entity POS count: 1
+Entity: Navy SEALs
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: SEALs | POS: PROPN 
+Context: I mean,   for example, I've got very close friends in 
+the Navy SEALs, and they all have a kind of   calm confidence because they've been on what 
+Joseph Campbell called the Hero's Journey.   
+
+Entity POS count: 2
+Entity: Joseph Campbell
+Entity POS: ['PROPN', 'PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: called | POS: VERB 
+Context: I mean,   for example, I've got very close friends in 
+the Navy SEALs, and they all have a kind of   calm confidence because they've been on what 
+Joseph Campbell called the Hero's Journey.   
+
+Entity POS count: 4
+Entity: the Hero's Journey
+Entity POS: ['DET', 'NOUN', 'PART', 'NOUN']
+Previous Word: called | POS: VERB 
+Next Word: . | POS: PUNCT 
+Context: I mean,   for example, I've got very close friends in 
+the Navy SEALs, and they all have a kind of   calm confidence because they've been on what 
+Joseph Campbell called the Hero's Journey.   
+
+Entity POS count: 2
+Entity: Haida Gwaii
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: on | POS: ADP 
+Next Word: in | POS: ADP 
+Context: Well, I was living 
+on Haida Gwaii in Northwest British Columbia in   the mid-'70s.
+
+Entity POS count: 3
+Entity: Northwest British Columbia
+Entity POS: ['PROPN', 'PROPN', 'PROPN']
+Previous Word: in | POS: ADP 
+Next Word: in | POS: ADP 
+Context: Well, I was living 
+on Haida Gwaii in Northwest British Columbia in   the mid-'70s.
+
+Entity POS count: 3
+Entity: the west coast
+Entity POS: ['DET', 'PROPN', 'NOUN']
+Previous Word: in | POS: ADP 
+Next Word: of | POS: ADP 
+Context: So I lied about 
+my credentials and managed to hire on as a logging   forestry engineer in one of the toughest logging 
+camps in the west coast of British Columbia,   where I stayed a year.
+
+Entity POS count: 2
+Entity: British Columbia
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: of | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: So I lied about 
+my credentials and managed to hire on as a logging   forestry engineer in one of the toughest logging 
+camps in the west coast of British Columbia,   where I stayed a year.
+
+Entity POS count: 2
+Entity: Marcel Pierre
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: with | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: Well, remember I said I became very 
+close friends with Marcel Pierre, and we were   like brothers by the end of the many years I was 
+there.
+
+Entity POS count: 1
+Entity: little Jeep
+Entity POS: ['NOUN']
+Previous Word: little | POS: ADJ 
+Next Word: and | POS: CCONJ 
+Context: And I went in my little Jeep and I didn't have my   wallet or any money.
+
+Entity POS count: 3
+Entity: pa gen kòb
+Entity POS: ['PROPN', 'PROPN', 'PROPN']
+Previous Word: me | POS: PRON 
+Next Word: " | POS: PUNCT 
+Context: Then I say in Creole, "Nez 
+me pa gen kòb" — "I've got no money."
+
+Entity POS count: 4
+Entity: Nou gen gwo lig aswè
+Entity POS: ['PROPN', 'PROPN', 'PROPN', 'PROPN']
+Previous Word: " | POS: PUNCT 
+Next Word: aswè | POS: NOUN 
+Context: And then we had   a big laugh and he said, "Nou gen gwo lig aswè 
+a" — "We've got a big thing happening tonight.
+
+Entity POS count: 1
+Entity: Legba
+Entity POS: ['PROPN']
+Previous Word: of | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: And the ceremony begins   like any ceremony with the invocation of Legba, 
+the spirit of communication.
+
+Entity POS count: 2
+Entity: nan lannuit
+Entity POS: ['PROPN', 'NOUN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: ! | POS: PUNCT 
+Context: — "Sòlda 
+nan lannuit !
+
+Entity POS count: 3
+Entity: Chanje la po
+Entity POS: ['PROPN', 'PROPN', 'PROPN']
+Previous Word: ! | POS: PUNCT 
+Next Word: ! | POS: PUNCT 
+Context: Chanje la po!"
+
+Entity POS count: 1
+Entity: Canadian
+Entity POS: ['ADJ']
+Previous Word: a | POS: DET 
+Next Word:     | POS: SPACE 
+Context: Wade Davis: Tim, maybe it's a Canadian   thing.
+
+Entity POS count: 1
+Entity: Colombians
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: called | POS: VERB 
+Context: And many of   them got what the Colombians called mamitas, or 
+homesickness.
+
+Entity POS count: 1
+Entity: giardia
+Entity POS: ['PROPN']
+Previous Word: contract | POS: VERB 
+Next Word: or | POS: CCONJ 
+Context: And even if you know, and   there's been many times when I've known because of 
+the circumstances, that if I eat a plate offered   to me, without doubt, I'll contract giardia or 
+amoebic dysentery, I always eat the food.
+
+Entity POS count: 1
+Entity: Vancouver
+Entity POS: ['PROPN']
+Previous Word: of | POS: ADP 
+Next Word:  
+ | POS: SPACE 
+Context: And also, while they grew up,   we own a fishing lodge, a very modest fishing 
+lodge, but very remote, seven hours from the   nearest town, three days drive north of Vancouver 
+in Tahltan country.
+
+Entity POS count: 1
+Entity: Tahltan country
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: country | POS: NOUN 
+Context: And also, while they grew up,   we own a fishing lodge, a very modest fishing 
+lodge, but very remote, seven hours from the   nearest town, three days drive north of Vancouver 
+in Tahltan country.
+
+Entity POS count: 1
+Entity: Mongolians
+Entity POS: ['PROPN']
+Previous Word: four | POS: NUM 
+Next Word: drinking | POS: VERB 
+Context: I just had a 
+friend call me who reminded me of the day he   woke up there and found four Mongolians drinking 
+vodka at 6:00 a.m. in the kitchen.
+
+Entity POS count: 2
+Entity: Nilda Callañaupa
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: had | POS: VERB 
+Next Word: , | POS: PUNCT 
+Context: And one time   we had Nilda Callañaupa, this great friend of 
+mine, a weaver, really a national treasure,   from Cusco staying in one guest room.
+
+Entity POS count: 1
+Entity: Mali
+Entity POS: ['PROPN']
+Previous Word: from | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: And 
+I'd forgotten to tell my daughters that a   friend of mine from Mali, Isa Mohammed, a Tuareg, 
+massive guy, was there for the Folklife Festival.  
+
+Entity POS count: 2
+Entity: Isa Mohammed
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: , | POS: PUNCT 
+Context: And 
+I'd forgotten to tell my daughters that a   friend of mine from Mali, Isa Mohammed, a Tuareg, 
+massive guy, was there for the Folklife Festival.  
+
+Entity POS count: 1
+Entity: Tuareg
+Entity POS: ['PROPN']
+Previous Word: a | POS: DET 
+Next Word: , | POS: PUNCT 
+Context: And 
+I'd forgotten to tell my daughters that a   friend of mine from Mali, Isa Mohammed, a Tuareg, 
+massive guy, was there for the Folklife Festival.  
+
+Entity POS count: 3
+Entity: the Folklife Festival
+Entity POS: ['DET', 'PROPN', 'PROPN']
+Previous Word: for | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: And 
+I'd forgotten to tell my daughters that a   friend of mine from Mali, Isa Mohammed, a Tuareg, 
+massive guy, was there for the Folklife Festival.  
+
+Entity POS count: 1
+Entity: Lawrence
+Entity POS: ['PROPN']
+Previous Word: like | POS: ADP 
+Next Word:  
+ | POS: SPACE 
+Context: So they didn't know he was staying there, and 
+he comes up from the basement guest room in   full ritual regalia, looking like Lawrence 
+of Arabia.
+
+Entity POS count: 1
+Entity: Arabia
+Entity POS: ['PROPN']
+Previous Word: of | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: So they didn't know he was staying there, and 
+he comes up from the basement guest room in   full ritual regalia, looking like Lawrence 
+of Arabia.
+
+Entity POS count: 1
+Entity: Rice Krispies
+Entity POS: ['PROPN']
+Previous Word: eating | POS: VERB 
+Next Word: Krispies | POS: PROPN 
+Context: My girls   were eating Rice Krispies at the table, and he 
+just says, "Mes enfants, je suis là!"
+
+Entity POS count: 1
+Entity: Mes enfants
+Entity POS: ['PROPN']
+Previous Word: " | POS: PUNCT 
+Next Word: enfants | POS: NOUN 
+Context: My girls   were eating Rice Krispies at the table, and he 
+just says, "Mes enfants, je suis là!"
+
+Entity POS count: 3
+Entity: je suis là
+Entity POS: ['PROPN', 'PROPN', 'PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: ! | POS: PUNCT 
+Context: My girls   were eating Rice Krispies at the table, and he 
+just says, "Mes enfants, je suis là!"
+
+Entity POS count: 1
+Entity: incredible African
+Entity POS: ['ADJ']
+Previous Word: incredible | POS: ADJ 
+Next Word: guy | POS: NOUN 
+Context: And they   just look up at this incredible African guy.
+
+
+Entity POS count: 4
+Entity: Youth Conservation   Corps
+Entity POS: ['PROPN', 'PROPN', 'SPACE', 'PROPN']
+Previous Word: be | POS: AUX 
+Next Word: in | POS: ADP 
+Context: This is why I 
+think there should be Youth Conservation   Corps in every state and national park.
+
+Entity POS count: 2
+Entity: United States
+Entity POS: ['PROPN', 'PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: should | POS: AUX 
+Context: There's no   reason whatsoever that our government in the 
+United States shouldn't be able to mobilize   resources that would make available to every 
+young American boy and girl the opportunity to   travel within America, to know another face 
+of America, another section of the country.   Californians to Iowa, Kansans to Miami, and so 
+on.
+
+Entity POS count: 1
+Entity: Californians
+Entity POS: ['PROPN']
+Previous Word:     | POS: SPACE 
+Next Word: to | POS: ADP 
+Context: There's no   reason whatsoever that our government in the 
+United States shouldn't be able to mobilize   resources that would make available to every 
+young American boy and girl the opportunity to   travel within America, to know another face 
+of America, another section of the country.   Californians to Iowa, Kansans to Miami, and so 
+on.
+
+Entity POS count: 1
+Entity: Iowa
+Entity POS: ['PROPN']
+Previous Word: to | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: There's no   reason whatsoever that our government in the 
+United States shouldn't be able to mobilize   resources that would make available to every 
+young American boy and girl the opportunity to   travel within America, to know another face 
+of America, another section of the country.   Californians to Iowa, Kansans to Miami, and so 
+on.
+
+Entity POS count: 1
+Entity: Kansans
+Entity POS: ['PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: to | POS: ADP 
+Context: There's no   reason whatsoever that our government in the 
+United States shouldn't be able to mobilize   resources that would make available to every 
+young American boy and girl the opportunity to   travel within America, to know another face 
+of America, another section of the country.   Californians to Iowa, Kansans to Miami, and so 
+on.
+
+Entity POS count: 1
+Entity: Miami
+Entity POS: ['PROPN']
+Previous Word: to | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: There's no   reason whatsoever that our government in the 
+United States shouldn't be able to mobilize   resources that would make available to every 
+young American boy and girl the opportunity to   travel within America, to know another face 
+of America, another section of the country.   Californians to Iowa, Kansans to Miami, and so 
+on.
+
+Entity POS count: 1
+Entity: universal healthcare
+Entity POS: ['NOUN']
+Previous Word: universal | POS: ADJ 
+Next Word: is | POS: AUX 
+Context: I mean,   one thing, I don't want to belabor this, but in 
+America, universal healthcare is seen as socialist   medicine, and healthcare in general is seen as a 
+uniquely medical issue.
+
+Entity POS count: 3
+Entity: the Sierra Nevada
+Entity POS: ['DET', 'PROPN', 'PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: with | POS: ADP 
+Context: Wade Davis: One of my most memorable experiences,   when I was 20, I was just come back from 
+the Sierra Nevada with the mamos.
+
+Entity POS count: 1
+Entity: Alaska
+Entity POS: ['PROPN']
+Previous Word: to | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: And I ran into this crazy Englishman 
+who had walked from the tip of South America,   and he was walking to Alaska.
+
+Entity POS count: 4
+Entity: The London Sunday Observer
+Entity POS: ['DET', 'PROPN', 'PROPN', 'PROPN']
+Previous Word:     | POS: SPACE 
+Next Word: . | POS: PUNCT 
+Context: And he was 
+sending these dispatches to his newspaper,   The London Sunday Observer.
+
+Entity POS count: 3
+Entity: the Darien Gap
+Entity POS: ['DET', 'PROPN', 'PROPN']
+Previous Word: through | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: But anyway, 
+he hired me to guide him through the Darien Gap,   the only stretch of this trip —
+Tim Ferriss: That's very dangerous.  
+
+Entity POS count: 2
+Entity: Kuna Indians
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: three | POS: NUM 
+Next Word: for | POS: ADP 
+Context: At one point we got lost in the jungle 
+with three Kuna Indians for 12 days with no food.   
+
+Entity POS count: 1
+Entity: Sebastian
+Entity POS: ['PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word:  
+ | POS: SPACE 
+Context: At one point, Sebastian 
+was down to 120.
+
+Entity POS count: 2
+Entity: Panama City
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: in | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: And   at the end of this extraordinary misadventure, 
+I got off the plane in Panama City.   
+
+Entity POS count: 1
+Entity: cramped Cessna
+Entity POS: ['PROPN']
+Previous Word: cramped | POS: ADJ 
+Next Word: . | POS: PUNCT 
+Context: I had flown out in this cramped Cessna.
+
+Entity POS count: 3
+Entity: the Kuna Indians
+Entity POS: ['DET', 'PROPN', 'PROPN']
+Previous Word:     | POS: SPACE 
+Next Word: make | POS: VERB 
+Context: What did   the Kuna Indians make of that black jaguar?
+
+
+Entity POS count: 1
+Entity: Macuna
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: , | POS: PUNCT 
+Context: When you're 
+with peoples like the Barasana and the Macuna,   their most profound cultural insight, one might 
+say, is their conviction that plants and animals   are just people in another dimension of 
+reality.
+
+Entity POS count: 1
+Entity: Pucallpa
+Entity POS: ['PROPN']
+Previous Word: or | POS: CCONJ 
+Next Word: , | POS: PUNCT 
+Context: Well, first of all,   one thing I've mentioned about ayahuasca or yagé 
+is that the idea we often have of it as we go   down to Iquitos, or Pucallpa, the healers of the 
+Shipibo, as if it's sort of a quest for personal   liberation, personal well-being.
+
+Entity POS count: 1
+Entity: Shipibo
+Entity POS: ['PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: , | POS: PUNCT 
+Context: Well, first of all,   one thing I've mentioned about ayahuasca or yagé 
+is that the idea we often have of it as we go   down to Iquitos, or Pucallpa, the healers of the 
+Shipibo, as if it's sort of a quest for personal   liberation, personal well-being.
+
+Entity POS count: 3
+Entity: the curanderos   
+Entity POS: ['DET', 'PROPN', 'SPACE']
+Previous Word: and | POS: CCONJ 
+Next Word: who | POS: PRON 
+Context: That's always 
+been there in the traditional use of hallucinogens   in South America, the traditional syncretic cult 
+of the cactus of the four winds and the curanderos   who use San Pedro cactus on the coast.
+
+Entity POS count: 2
+Entity: San Pedro cactus
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: use | POS: VERB 
+Next Word: cactus | POS: NOUN 
+Context: That's always 
+been there in the traditional use of hallucinogens   in South America, the traditional syncretic cult 
+of the cactus of the four winds and the curanderos   who use San Pedro cactus on the coast.
+
+Entity POS count: 2
+Entity: William Burroughs
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: between | POS: ADP 
+Next Word: — | POS: PUNCT 
+Context: And 
+certainly the popularization of ayahuasca began   with The Yagé Letters between William Burroughs —
+Tim Ferriss:
+
+Entity POS count: 2
+Entity: Allen Ginsberg
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: And | POS: CCONJ 
+Next Word: . | POS: PUNCT 
+Context: Right.  Wade Davis: And Allen Ginsberg.
+
+Entity POS count: 1
+Entity: Burroughs
+Entity POS: ['PROPN']
+Previous Word: was | POS: AUX 
+Next Word: who | POS: PRON 
+Context: And it 
+was Burroughs who turned up in Bogota,   goes to the Herbarium, meets who he calls Doc 
+Schindler, who is Schultes.
+
+Entity POS count: 1
+Entity: Herbarium
+Entity POS: ['NOUN']
+Previous Word: the | POS: DET 
+Next Word: , | POS: PUNCT 
+Context: And it 
+was Burroughs who turned up in Bogota,   goes to the Herbarium, meets who he calls Doc 
+Schindler, who is Schultes.
+
+Entity POS count: 1
+Entity: Doc
+Entity POS: ['PROPN']
+Previous Word: calls | POS: VERB 
+Next Word:  
+ | POS: SPACE 
+Context: And it 
+was Burroughs who turned up in Bogota,   goes to the Herbarium, meets who he calls Doc 
+Schindler, who is Schultes.
+
+Entity POS count: 1
+Entity: Schindler
+Entity POS: ['PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: , | POS: PUNCT 
+Context: And it 
+was Burroughs who turned up in Bogota,   goes to the Herbarium, meets who he calls Doc 
+Schindler, who is Schultes.
+
+Entity POS count: 1
+Entity: Mocoa
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: And Schultes sends him   off and eventually gets him ayahuasca in Mocoa. 
+
+
+Entity POS count: 1
+Entity: Sibundoy
+Entity POS: ['PROPN']
+Previous Word: between | POS: ADP 
+Next Word: and | POS: CCONJ 
+Context: And on that road between Sibundoy and Mocoa in the   upper Putumayo, when I was there in the 1970s, 
+there were already individual healers sort of   working with the gringo trade, but also 
+working with individual campesinos.  
+
+Entity POS count: 1
+Entity: upper Putumayo
+Entity POS: ['PROPN']
+Previous Word: upper | POS: ADJ 
+Next Word: , | POS: PUNCT 
+Context: And on that road between Sibundoy and Mocoa in the   upper Putumayo, when I was there in the 1970s, 
+there were already individual healers sort of   working with the gringo trade, but also 
+working with individual campesinos.  
+
+Entity POS count: 3
+Entity: the Northwest Amazon
+Entity POS: ['DET', 'PROPN', 'PROPN']
+Previous Word: of | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: But I mentioned that only to stress that it 
+is completely a different situation when you get   into the heart of the Northwest Amazon, where 
+presumably these plants were originated, these   preparations.
+
+Entity POS count: 4
+Entity: the Milk   River
+Entity POS: ['DET', 'PROPN', 'SPACE', 'PROPN']
+Previous Word: up | POS: ADP 
+Next Word: in | POS: ADP 
+Context: I mean, the main origin myth that in one way or   another is shared by multiple cultures, speaks 
+of a great journey from the east up the Milk   River in sacred canoes dragged by Anaconda. 
+
+
+Entity POS count: 3
+Entity: the Milk River
+Entity POS: ['DET', 'PROPN', 'PROPN']
+Previous Word: up | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: And these are 
+brought up the Milk River.
+
+Entity POS count: 1
+Entity: Ayawa
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: , | POS: PUNCT 
+Context: And originally they   were brought up by the Ayawa, the four thunders, 
+these mythological culture heroes.
+
+Entity POS count: 1
+Entity: Ayawas
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: went | POS: VERB 
+Context: So this idea 
+that humans are responsible for the equilibrium,   and then the Ayawas went up and became the stars. 
+
+
+Entity POS count: 2
+Entity: mother Romi Kumu
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: mother | POS: NOUN 
+Next Word: brought | POS: VERB 
+Context: And then the great mother Romi Kumu brought the   people up and the people settled each river.
+
+
+Entity POS count: 1
+Entity: Malpighiaceous vine
+Entity POS: ['PROPN']
+Previous Word: of | POS: ADP 
+Next Word: vine | POS: NOUN 
+Context: First of all,   there is a species of Malpighiaceous vine, 
+Diplopterys cabrerana, which, it looks very much   like yagé and does have DMT in it.
+
+Entity POS count: 2
+Entity: Diplopterys cabrerana
+Entity POS: ['PROPN', 'PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: , | POS: PUNCT 
+Context: First of all,   there is a species of Malpighiaceous vine, 
+Diplopterys cabrerana, which, it looks very much   like yagé and does have DMT in it.
+
+Entity POS count: 1
+Entity: Psychotria coffee
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: coffee | POS: NOUN 
+Context: So maybe they 
+saw that, then they saw the opposite leaves, they   saw the Psychotria coffee plant opposite leaves. 
+
+
+Entity POS count: 3
+Entity: Siona-Secoya
+Entity POS: ['PROPN', 'PUNCT', 'PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: and | POS: CCONJ 
+Context: Now,   I mentioned that story about Schultes saying the 
+Siona-Secoya and the 17 varieties sing to you in   a different key.
+
+Entity POS count: 1
+Entity: Australia
+Entity POS: ['PROPN']
+Previous Word: to | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: When you go to Australia, you realize 
+that the entire purpose of life is not to change   the world, but to do the rituals to keep the 
+world just as it was.
+
+Entity POS count: 3
+Entity: New York City
+Entity POS: ['PROPN', 'PROPN', 'PROPN']
+Previous Word: of | POS: ADP 
+Next Word:  
+ | POS: SPACE 
+Context: Well, imagine how much   would be learned if the people of New York City 
+had spent all of their existence putting all of   their energy and capacity into understanding the 
+biological relationships of Central Park.
+
+Entity POS count: 2
+Entity: Central Park
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: of | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: Well, imagine how much   would be learned if the people of New York City 
+had spent all of their existence putting all of   their energy and capacity into understanding the 
+biological relationships of Central Park.
+
+Entity POS count: 1
+Entity: Bolivia
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: But the point is,   I remember I took — Tim and I discovered a new 
+species of San Pedro cactus in 1974 in Bolivia,   and we took a big wack of it on the eastern side 
+of the Andes and knowing that it was safe.
+
+Entity POS count: 1
+Entity: Terence
+Entity POS: ['PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: would | POS: AUX 
+Context: As Tim and I   made ready to say goodbye to each other after over 
+a year and a half traveling together, we took this   extraordinary, Terence would call heroic dose of 
+this new species we had found.
+
+Entity POS count: 3
+Entity: the Nazca Lines
+Entity POS: ['DET', 'PROPN', 'PROPN']
+Previous Word: saw | POS: VERB 
+Next Word: . | POS: PUNCT 
+Context: And I looked down and I saw the Nazca Lines.
+
+Entity POS count: 1
+Entity: Icarus
+Entity POS: ['PROPN']
+Previous Word: like | POS: ADP 
+Next Word: to | POS: ADP 
+Context: But at that same experience, I saw   Tim fly up like Icarus to the sun and disappear. 
+
+
+Entity POS count: 1
+Entity: Chinchero
+Entity POS: ['PROPN']
+Previous Word: of | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: I mean, in the Andes, for example, in the 
+community of Chinchero, once each year outside of   Cusco, the fastest young boy is given the honor 
+of becoming a woman.
+
+Entity POS count: 2
+Entity: African American boxer
+Entity POS: ['ADJ', 'ADJ']
+Previous Word: an | POS: DET 
+Next Word: boxer | POS: NOUN 
+Context: I trained 
+six months with an African American boxer   in DC in a gym.
+
+Entity POS count: 1
+Entity: DC
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: in | POS: ADP 
+Context: I trained 
+six months with an African American boxer   in DC in a gym.
+
+Entity POS count: 2
+Entity: Johannes Wilbert
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: but | POS: CCONJ 
+Next Word: in | POS: ADP 
+Context: That's a longer   story for maybe another time, but they have read, 
+I think his name is, I'm probably mispronouncing   this, but Johannes Wilbert in his book.
+
+
+Entity POS count: 3
+Entity: the   maloca
+Entity POS: ['DET', 'SPACE', 'PROPN']
+Previous Word: in | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: So 
+I'd essentially propositioned every woman in the   maloca.
+
+Entity POS count: 1
+Entity: Stephen
+Entity POS: ['PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word:  
+ | POS: SPACE 
+Context: And one of the exciting 
+studies that was done with a Barasana   by two great ethnographers, Stephen 
+Hugh-Jones and his wife Christine Hugh-Jones.  
+
+Entity POS count: 3
+Entity: Hugh-Jones
+Entity POS: ['PROPN', 'PUNCT', 'PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: and | POS: CCONJ 
+Context: And one of the exciting 
+studies that was done with a Barasana   by two great ethnographers, Stephen 
+Hugh-Jones and his wife Christine Hugh-Jones.  
+
+Entity POS count: 4
+Entity: wife Christine Hugh-Jones
+Entity POS: ['PROPN', 'PROPN', 'PUNCT', 'PROPN']
+Previous Word: wife | POS: NOUN 
+Next Word: . | POS: PUNCT 
+Context: And one of the exciting 
+studies that was done with a Barasana   by two great ethnographers, Stephen 
+Hugh-Jones and his wife Christine Hugh-Jones.  
+
+Entity POS count: 1
+Entity: Yurupary cult
+Entity POS: ['ADJ']
+Previous Word: the | POS: DET 
+Next Word: cult | POS: NOUN 
+Context: While Stephen was looking at the Yurupary cult in 
+ayahuasca, and his book was published as The Palm   and the Pleiades, Christine was hanging for all 
+those years with the women.
+
+Entity POS count: 1
+Entity: Pleiades
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: , | POS: PUNCT 
+Context: While Stephen was looking at the Yurupary cult in 
+ayahuasca, and his book was published as The Palm   and the Pleiades, Christine was hanging for all 
+those years with the women.
+
+Entity POS count: 1
+Entity: Christine
+Entity POS: ['PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: was | POS: AUX 
+Context: While Stephen was looking at the Yurupary cult in 
+ayahuasca, and his book was published as The Palm   and the Pleiades, Christine was hanging for all 
+those years with the women.
+
+Entity POS count: 2
+Entity: Milk River
+Entity POS: ['PROPN', 'PROPN']
+Previous Word:     | POS: SPACE 
+Next Word: , | POS: PUNCT 
+Context: And her book, From the   Milk River, shows that the preparation of bitter 
+manioc is in wrapped in as much cosmology, as much   significance as ayahuasca.
+
+Entity POS count: 1
+Entity: cassava
+Entity POS: ['PROPN']
+Previous Word: And | POS: CCONJ 
+Next Word: 's | POS: AUX 
+Context: And cassava's made from bitter manioc or 
+tapioca.
+
+Entity POS count: 1
+Entity: Baudelaire
+Entity POS: ['PROPN']
+Previous Word: from | POS: ADP 
+Next Word: 's | POS: PART 
+Context: We   all suffered from Baudelaire's malady, a horror 
+of home.
+
+Entity POS count: 2
+Entity: Richard Nixon
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: until | POS: SCONJ 
+Next Word:  
+ | POS: SPACE 
+Context: My only 
+promise was that I was not going to come   back to the United States until Richard Nixon 
+was no longer president.
+
+Entity POS count: 1
+Entity: Leary
+Entity POS: ['PROPN']
+Previous Word: since | POS: SCONJ 
+Next Word: and | POS: CCONJ 
+Context: Yeah, I think everybody, ever   since Leary and Alpert and Andy Weil began 
+sharing this concept of set and setting,   we've known that these substances kind of invoke, 
+they create a, they're completely neutral.   
+
+Entity POS count: 1
+Entity: Alpert
+Entity POS: ['PROPN']
+Previous Word: and | POS: CCONJ 
+Next Word: and | POS: CCONJ 
+Context: Yeah, I think everybody, ever   since Leary and Alpert and Andy Weil began 
+sharing this concept of set and setting,   we've known that these substances kind of invoke, 
+they create a, they're completely neutral.   
+
+Entity POS count: 2
+Entity: Andy Weil
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: and | POS: CCONJ 
+Next Word: began | POS: VERB 
+Context: Yeah, I think everybody, ever   since Leary and Alpert and Andy Weil began 
+sharing this concept of set and setting,   we've known that these substances kind of invoke, 
+they create a, they're completely neutral.   
+
+Entity POS count: 4
+Entity: Tomorrow   Never Knows
+Entity POS: ['NOUN', 'SPACE', 'ADV', 'VERB']
+Previous Word: " | POS: PUNCT 
+Next Word: " | POS: PUNCT 
+Context: Let's just   remember that because of psychedelics, The 
+Beatles went from "She Loves You" to "Tomorrow   Never Knows" in two years.
+
+Entity POS count: 1
+Entity: France
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: after | POS: SCONJ 
+Context: "   But there was a very powerful year for me where 
+I was living in France after I'd finished The   Serpent and the Rainbow, but before it had come 
+out, and I was writing my PhD and living with the   French girlfriend in a small village of 26 people 
+in Provence in the Alps, the Low Alps.
+
+Entity POS count: 1
+Entity: French girlfriend
+Entity POS: ['ADJ']
+Previous Word:     | POS: SPACE 
+Next Word: girlfriend | POS: NOUN 
+Context: "   But there was a very powerful year for me where 
+I was living in France after I'd finished The   Serpent and the Rainbow, but before it had come 
+out, and I was writing my PhD and living with the   French girlfriend in a small village of 26 people 
+in Provence in the Alps, the Low Alps.
+
+Entity POS count: 1
+Entity: Provence
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: in | POS: ADP 
+Context: "   But there was a very powerful year for me where 
+I was living in France after I'd finished The   Serpent and the Rainbow, but before it had come 
+out, and I was writing my PhD and living with the   French girlfriend in a small village of 26 people 
+in Provence in the Alps, the Low Alps.
+
+Entity POS count: 1
+Entity: Alps
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: , | POS: PUNCT 
+Context: "   But there was a very powerful year for me where 
+I was living in France after I'd finished The   Serpent and the Rainbow, but before it had come 
+out, and I was writing my PhD and living with the   French girlfriend in a small village of 26 people 
+in Provence in the Alps, the Low Alps.
+
+Entity POS count: 1
+Entity: Gail
+Entity POS: ['PROPN']
+Previous Word:     | POS: SPACE 
+Next Word: . | POS: PUNCT 
+Context: And   that year, I can't remember the order that this 
+happened, but I had a letter waiting for me from   Gail.
+
+Entity POS count: 1
+Entity: Hollywood
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word:  
+ | POS: SPACE 
+Context: I mean all of that,   also, that year, the Hollywood 
+movie came out based on the book.  
+
+Entity POS count: 2
+Entity: John Lennon
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: or | POS: CCONJ 
+Next Word: for | POS: ADP 
+Context: I mean, I think if you look back,   Leary, for example, or John Lennon for that 
+matter, I would argue took way too much LSD,   
+
+Entity POS count: 2
+Entity: George Harrison
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: whereas | POS: SCONJ 
+Next Word: and | POS: CCONJ 
+Context: whereas George Harrison and Ram Dass famously, 
+as they wrote, got the message and hung up.  
+
+Entity POS count: 2
+Entity: Ram Dass
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: and | POS: CCONJ 
+Next Word: famously | POS: ADV 
+Context: whereas George Harrison and Ram Dass famously, 
+as they wrote, got the message and hung up.  
+
+Entity POS count: 1
+Entity: Jaguar mother
+Entity POS: ['PROPN']
+Previous Word: of | POS: ADP 
+Next Word: mother | POS: NOUN 
+Context: You're nursing at the breast   of Jaguar mother when she rips you from her kit 
+and flings you into a pit of poisonous vipers.
+
+Entity POS count: 2
+Entity: Randy Borman
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: with | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: "  I mean, once was with Randy Borman, and we 
+took ayahuasca with the Cofán and we had a   very interesting kind of spontaneous session after 
+the experience.
+
+Entity POS count: 1
+Entity: Cofán
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: and | POS: CCONJ 
+Context: "  I mean, once was with Randy Borman, and we 
+took ayahuasca with the Cofán and we had a   very interesting kind of spontaneous session after 
+the experience.
+
+Entity POS count: 1
+Entity: Mazatec traditional
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: traditional | POS: ADJ 
+Context: And I think 
+for that reason it has traveled and become so   sexy in a sense, unlike, say, mushrooms that in 
+the United States, these Psilocybe mushrooms,   are taken in a very recreational setting 
+which would be very dissimilar from, say,   the Mazatec traditional use.
+
+Entity POS count: 1
+Entity: Montreal
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: in | POS: ADP 
+Context: I went to a private school in Montreal in Grade 7 
+where we had to memorize the 120 sentence errors   in English grammar.
+
+Entity POS count: 2
+Entity: poet Gary Snyder
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: poet | POS: NOUN 
+Next Word: . | POS: PUNCT 
+Context: and I certainly was deeply impressed and I had   mentors like the poet Gary Snyder.
+
+Entity POS count: 1
+Entity: Gary
+Entity POS: ['PROPN']
+Previous Word: of | POS: ADP 
+Next Word: 's | POS: PART 
+Context: I never went 
+anywhere without one of Gary's volumes of poems   in my backpack.
+
+Entity POS count: 2
+Entity: Peter Matthiessen
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: . | POS: PUNCT 
+Next Word: . | POS: PUNCT 
+Context: Peter Matthiessen.
+
+Entity POS count: 6
+Entity: the International Psychiatric Research 
+Foundation
+Entity POS: ['DET', 'PROPN', 'PROPN', 'PROPN', 'SPACE', 'PROPN']
+Previous Word: called | POS: VERB 
+Next Word: . | POS: PUNCT 
+Context: They set up a dummy foundation   called the International Psychiatric Research 
+Foundation.
+
+Entity POS count: 2
+Entity: David Merrick
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: , | POS: PUNCT 
+Context: And I never knew who was the benefactor, but it 
+turned out to be a wonderful man, David Merrick,   the Broadway producer who at that time had just 
+had a huge success on Broadway with 42nd Street.  
+
+Entity POS count: 1
+Entity: Broadway producer
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: producer | POS: NOUN 
+Context: And I never knew who was the benefactor, but it 
+turned out to be a wonderful man, David Merrick,   the Broadway producer who at that time had just 
+had a huge success on Broadway with 42nd Street.  
+
+Entity POS count: 2
+Entity: 42nd Street
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: with | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: And I never knew who was the benefactor, but it 
+turned out to be a wonderful man, David Merrick,   the Broadway producer who at that time had just 
+had a huge success on Broadway with 42nd Street.  
+
+Entity POS count: 1
+Entity: Mr. Merrick
+Entity POS: ['PROPN']
+Previous Word: Mr. | POS: PROPN 
+Next Word: had | POS: VERB 
+Context: And then,   again, as I mentioned earlier, in an unbelievable 
+24 hours, Dr. Kline died during routine heart   surgery and Mr. Merrick had a debilitating 
+stroke
+
+Entity POS count: 3
+Entity: the Darién Gap
+Entity POS: ['DET', 'PROPN', 'PROPN']
+Previous Word:     | POS: SPACE 
+Next Word: . | POS: PUNCT 
+Context: And I had guided that British journalist through   the Darién Gap.
+
+Entity POS count: 2
+Entity: Sebastian Snow
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: was | POS: AUX 
+Next Word: , | POS: PUNCT 
+Context: His name was Sebastian Snow, and 
+he had written a really dreadful book about his   journey called The Rucksack Man, and he actually 
+lifted whole passages out of my diaries into this   book, which actually was a fair exchange because 
+it was the first time I saw my writing in print,   albeit lifted from my journals.
+
+Entity POS count: 3
+Entity: The Rucksack Man
+Entity POS: ['DET', 'PROPN', 'PROPN']
+Previous Word: called | POS: VERB 
+Next Word: , | POS: PUNCT 
+Context: His name was Sebastian Snow, and 
+he had written a really dreadful book about his   journey called The Rucksack Man, and he actually 
+lifted whole passages out of my diaries into this   book, which actually was a fair exchange because 
+it was the first time I saw my writing in print,   albeit lifted from my journals.
+
+Entity POS count: 1
+Entity: Indians
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word:  
+ | POS: SPACE 
+Context: Actually, I was 
+able to give him something worth saying because   I spoke Spanish whilst hanging with the Indians 
+all the time.
+
+Entity POS count: 2
+Entity: Costa Rica
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: in | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: He went mad, actually, 
+in Costa Rica, but that's a whole 'nother story.  
+
+Entity POS count: 1
+Entity: Canadians
+Entity POS: ['PROPN']
+Previous Word: to | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: And this Englishman looked   down his nose, as they often do to Canadians, 
+"Well, there might be something in that zombie   thing."
+
+Entity POS count: 3
+Entity: Ed Wilson's
+Entity POS: ['PROPN', 'PROPN', 'PART']
+Previous Word: by | POS: ADP 
+Next Word: , | POS: PUNCT 
+Context: And before I knew it, I'd dictated the 
+story into a typewriter what happened to me,   had it transcribed, typed by Ed Wilson's, 
+Professor Wilson's wonderful, the late E.O.   Wilson's secretary.
+
+Entity POS count: 1
+Entity: Professor Wilson
+Entity POS: ['PROPN']
+Previous Word: Professor | POS: PROPN 
+Next Word: 's | POS: PART 
+Context: And before I knew it, I'd dictated the 
+story into a typewriter what happened to me,   had it transcribed, typed by Ed Wilson's, 
+Professor Wilson's wonderful, the late E.O.   Wilson's secretary.
+
+Entity POS count: 4
+Entity: late E.O.   Wilson's
+Entity POS: ['PROPN', 'SPACE', 'PROPN', 'PART']
+Previous Word: late | POS: ADJ 
+Next Word: secretary | POS: NOUN 
+Context: And before I knew it, I'd dictated the 
+story into a typewriter what happened to me,   had it transcribed, typed by Ed Wilson's, 
+Professor Wilson's wonderful, the late E.O.   Wilson's secretary.
+
+Entity POS count: 1
+Entity: Paris
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: with | POS: ADP 
+Context: And I had this big 150-page 
+thing and I gave it in as a book proposal,   got a contract for what then was an enormous 
+amount of money for me, $35,000, spent it on   some fun in Paris with a girlfriend, and then 
+used the rest of it to finish the research.  
+
+Entity POS count: 1
+Entity: Bible
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: and | POS: CCONJ 
+Context: And I wrote two chapters that I thought   was the best thing since the Bible and I sent it 
+to the editor and he sent it back to me and said,   "Try again."
+
+Entity POS count: 1
+Entity: Virginia
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: to | POS: PART 
+Context: And so then I left the university 
+and a very dear friend of mine plucked me out   of Haiti and brought me to her beautiful farm 
+in Virginia to both get well but also to write   the book.
+
+Entity POS count: 1
+Entity: Hemingway
+Entity POS: ['PROPN']
+Previous Word:     | POS: SPACE 
+Next Word: , | POS: PUNCT 
+Context: But 
+what I did is I just took all my favorite books,   Hemingway, for example, for dialogue.
+
+Entity POS count: 2
+Entity: Isak Dinesen
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: . | POS: PUNCT 
+Next Word: for | POS: ADP 
+Context: Isak Dinesen for landscape.   
+
+Entity POS count: 2
+Entity: Lawrence Durrell
+Entity POS: ['PROPN', 'PROPN']
+Previous Word:     | POS: SPACE 
+Next Word: in | POS: ADP 
+Context: Lawrence Durrell in The Alexandria Quartet.
+
+Entity POS count: 3
+Entity: The Alexandria Quartet
+Entity POS: ['DET', 'PROPN', 'PROPN']
+Previous Word: in | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: Lawrence Durrell in The Alexandria Quartet.
+
+Entity POS count: 1
+Entity: Alexandria
+Entity POS: ['PROPN']
+Previous Word: about | POS: ADP 
+Next Word: in | POS: ADP 
+Context: Well, how about Alexandria in 
+the 1940s?
+
+Entity POS count: 2
+Entity: Barbara Tuchman
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: . | POS: PUNCT 
+Next Word: , | POS: PUNCT 
+Context: Barbara Tuchman, the great   historian, had a little note above her typewriter, 
+"Will they turn the page?"
+
+Entity POS count: 2
+Entity: Leonard Bernstein
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: is | POS: AUX 
+Context: But one of the things that really was amazing 
+to me, a real turning point in my life, having   been raised in that kind of simple middle-class 
+world where creativity happens to someone else,   The Beatles are creative, Leonard Bernstein is 
+creative, whatever.
+
+Entity POS count: 3
+Entity: World   War
+Entity POS: ['PROPN', 'SPACE', 'PROPN']
+Previous Word: about | POS: ADP 
+Next Word: I | POS: PRON 
+Context: People will say, "Oh, I can't write about World   War I because I'm a botanist."
+
+Entity POS count: 2
+Entity: Edwardian England
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: in | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: No, you apply the 
+same research skills that you used to write about   the Haitian zombie to understanding the essence 
+of British culture in Edwardian England.
+
+Entity POS count: 2
+Entity: Jimmy Page
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: from | POS: ADP 
+Next Word: to | POS: ADP 
+Context: When 
+you listen to any of these great characters   from Jimmy Page to the beloved and late 
+Jeff Beck, just terrible he passed away,   they always talk about how they mimed the work of 
+every other blues player before them.
+
+Entity POS count: 2
+Entity: Jeff Beck
+Entity POS: ['PROPN', 'PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: , | POS: PUNCT 
+Context: When 
+you listen to any of these great characters   from Jimmy Page to the beloved and late 
+Jeff Beck, just terrible he passed away,   they always talk about how they mimed the work of 
+every other blues player before them.
+
+Entity POS count: 2
+Entity: Jerry Garcia
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: , | POS: PUNCT 
+Next Word: never | POS: ADV 
+Context: I mean, Jerry Garcia never 
+had a guitar out of his hands, nor did Hendrix.   
+
+Entity POS count: 1
+Entity: Hendrix
+Entity POS: ['PROPN']
+Previous Word: did | POS: VERB 
+Next Word: . | POS: PUNCT 
+Context: I mean, Jerry Garcia never 
+had a guitar out of his hands, nor did Hendrix.   
+
+Entity POS count: 4
+Entity: the   University of
+Entity POS: ['DET', 'SPACE', 'PROPN', 'ADP']
+Previous Word: with | POS: ADP 
+Next Word: — | POS: PUNCT 
+Context: What's wrong with the   University of — why do you have to go to Harvard?" 
+"Wait a minute, you're supposed to be a lawyer.   
+
+Entity POS count: 4
+Entity: Dennis   McKenna's ESPD55
+Entity POS: ['PROPN', 'SPACE', 'PROPN', 'PART']
+Previous Word: at | POS: ADP 
+Next Word: ESPD55 | POS: PROPN 
+Context: Option two is you attended and spoke at Dennis   McKenna's ESPD55 conference, and I've had 
+Dennis on the podcast as well.
+
+Entity POS count: 1
+Entity: ESPD55 conference
+Entity POS: ['PROPN']
+Previous Word: 's | POS: PART 
+Next Word: conference | POS: NOUN 
+Context: Option two is you attended and spoke at Dennis   McKenna's ESPD55 conference, and I've had 
+Dennis on the podcast as well.
+
+Entity POS count: 1
+Entity: Dennis
+Entity POS: ['PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: on | POS: ADP 
+Context: Option two is you attended and spoke at Dennis   McKenna's ESPD55 conference, and I've had 
+Dennis on the podcast as well.
+
+Entity POS count: 2
+Entity: Kurt Vonnegut
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: because | POS: SCONJ 
+Next Word: , | POS: PUNCT 
+Context: And then the last option, which just came to 
+mind because Kurt Vonnegut, I think, separates   the brain vomit first draft and then refine folks 
+as swoopers and then I think folks who operate   more like yourself as plotters, I want to say. 
+
+
+Entity POS count: 4
+Entity: the Samuel Johnson Prize
+Entity POS: ['DET', 'PROPN', 'PROPN', 'PROPN']
+Previous Word: called | POS: VERB 
+Next Word: , | POS: PUNCT 
+Context: The book we haven't really talked about,   Into the Silence, which actually won the prize for 
+the top book in the English language, which was   then called the Samuel Johnson Prize, that took 
+12 years.
+
+Entity POS count: 1
+Entity: Tibet
+Entity POS: ['PROPN']
+Previous Word: to | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: With either myself or my research assistant we 
+visited 57 archives, multiple journeys to Tibet.   
+
+Entity POS count: 1
+Entity: namthar
+Entity POS: ['NOUN']
+Previous Word: the | POS: DET 
+Next Word:  
+ | POS: SPACE 
+Context: I had the spiritual autobiography, the namthar 
+of Dzatrul Rinpoche from Rongbuk translated by   monks in Kathmandu.
+
+Entity POS count: 2
+Entity: Dzatrul Rinpoche
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: of | POS: ADP 
+Next Word: from | POS: ADP 
+Context: I had the spiritual autobiography, the namthar 
+of Dzatrul Rinpoche from Rongbuk translated by   monks in Kathmandu.
+
+Entity POS count: 1
+Entity: Rongbuk
+Entity POS: ['PROPN']
+Previous Word: from | POS: ADP 
+Next Word: translated | POS: VERB 
+Context: I had the spiritual autobiography, the namthar 
+of Dzatrul Rinpoche from Rongbuk translated by   monks in Kathmandu.
+
+Entity POS count: 1
+Entity: Kathmandu
+Entity POS: ['PROPN']
+Previous Word: in | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: I had the spiritual autobiography, the namthar 
+of Dzatrul Rinpoche from Rongbuk translated by   monks in Kathmandu.
+
+Entity POS count: 3
+Entity: the Great War
+Entity POS: ['DET', 'PROPN', 'PROPN']
+Previous Word: during | POS: ADP 
+Next Word:     | POS: SPACE 
+Context: I know, for example, that I want to   deal at some point with how Edwardian 
+women or women during the Great War   dealt with the experience of death, as one 
+example.
+
+Entity POS count: 1
+Entity: Buddhist science
+Entity POS: ['ADJ']
+Previous Word:     | POS: SPACE 
+Next Word: science | POS: NOUN 
+Context: And that work point could be anything on a 
+theme, homosexuality in the 1920s, or the   Buddhist science of mind, and the work points 
+can become a huge number.
+
+Entity POS count: 2
+Entity: chapter one
+Entity POS: ['NOUN', 'NUM']
+Previous Word: be | POS: AUX 
+Next Word: , | POS: PUNCT 
+Context: Oh, here, it's going to be chapter one,   chapter two."
+
+Entity POS count: 2
+Entity: chapter two
+Entity POS: ['NOUN', 'NUM']
+Previous Word:     | POS: SPACE 
+Next Word: . | POS: PUNCT 
+Context: Oh, here, it's going to be chapter one,   chapter two."
+
+Entity POS count: 3
+Entity: World War II
+Entity POS: ['PROPN', 'PROPN', 'PROPN']
+Previous Word: in | POS: ADP 
+Next Word: . | POS: PUNCT 
+Context: "Oh, I knew he was involved 
+in this rubber crisis in World War II.
+
+Entity POS count: 2
+Entity: David McCullough
+Entity POS: ['PROPN', 'PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: , | POS: PUNCT 
+Context: And I find,   and I know some other writers don't — 
+David McCullough, the great writer —  Tim Ferriss: Incredible writer.
+
+
+Entity POS count: 2
+Entity: the War
+Entity POS: ['DET', 'PROPN']
+Previous Word: missed | POS: VERB 
+Next Word: . | POS: PUNCT 
+Context: Six of them missed the War.
+
+Entity POS count: 2
+Entity: Sandy Irvine
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: . | POS: PUNCT 
+Next Word: , | POS: PUNCT 
+Context: Sandy Irvine, too 
+young.
+
+Entity POS count: 4
+Entity: the First World War
+Entity POS: ['DET', 'PROPN', 'PROPN', 'PROPN']
+Previous Word: of | POS: ADP 
+Next Word: and | POS: CCONJ 
+Context: And I   set out to find out where each one of those 
+21 men, it turned out to be, had been every   single day of the four years and four months 
+of the First World War
+
+Entity POS count: 2
+Entity: Diana Manners
+Entity POS: ['PROPN', 'PROPN']
+Previous Word:  
+ | POS: SPACE 
+Next Word: who | POS: PRON 
+Context: Well, you could write out 10 pages about that and   never achieve anything like a single line from 
+Diana Manners who said that, "By the end of 1916,   every boy I had ever danced with was dead."
+
+Entity POS count: 2
+Entity: Max Hastings
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: reading | POS: VERB 
+Next Word: , | POS: PUNCT 
+Context: If you're reading along, like 
+I was reading Max Hastings, a great historian,   I really love his books, he wrote a book 
+about the last year of the Pacific War and   the overwhelming dominance of the Americans and 
+one of the statistics that just blew my mind,   and I'll give you this as a quiz.
+
+
+Entity POS count: 3
+Entity: the Pacific War
+Entity POS: ['DET', 'PROPN', 'PROPN']
+Previous Word: of | POS: ADP 
+Next Word: and | POS: CCONJ 
+Context: If you're reading along, like 
+I was reading Max Hastings, a great historian,   I really love his books, he wrote a book 
+about the last year of the Pacific War and   the overwhelming dominance of the Americans and 
+one of the statistics that just blew my mind,   and I'll give you this as a quiz.
+
+
+Entity POS count: 1
+Entity: Americans
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: and | POS: CCONJ 
+Context: If you're reading along, like 
+I was reading Max Hastings, a great historian,   I really love his books, he wrote a book 
+about the last year of the Pacific War and   the overwhelming dominance of the Americans and 
+one of the statistics that just blew my mind,   and I'll give you this as a quiz.
+
+
+Entity POS count: 5
+Entity: the Japanese Empire of the Sun
+Entity POS: ['DET', 'PROPN', 'PROPN', 'ADP', 'DET']
+Previous Word: , | POS: PUNCT 
+Next Word: Sun | POS: PROPN 
+Context: Okay.  Wade Davis: For every four pounds of equipment, 
+food, gas, bullets, grenades, everything,   per capita, the Japanese Empire of the Sun got 
+to a frontline soldier per capita, how many   pounds did we get?
+
+Entity POS count: 1
+Entity: Sun
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: got | POS: VERB 
+Context: Okay.  Wade Davis: For every four pounds of equipment, 
+food, gas, bullets, grenades, everything,   per capita, the Japanese Empire of the Sun got 
+to a frontline soldier per capita, how many   pounds did we get?
+
+Entity POS count: 1
+Entity: Tokyo
+Entity POS: ['PROPN']
+Previous Word:     | POS: SPACE 
+Next Word: or | POS: CCONJ 
+Context: Wade Davis: Everything from   Tokyo or wherever it came from.
+
+Entity POS count: 1
+Entity: Japanese
+Entity POS: ['PROPN']
+Previous Word: the | POS: DET 
+Next Word: got | POS: VERB 
+Context: For every 
+four pounds the Japanese got to a soldier,   how many pounds did America get to a soldier?
+
+
+Entity POS count: 2
+Entity: Rolling Stone
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: in | POS: ADP 
+Next Word: about | POS: ADP 
+Context: And before you know 
+it, you're writing a piece in Rolling Stone about   the unraveling of America and you want to speak 
+about how extraordinarily powerful America was   industrially in World War II.
+
+Entity POS count: 2
+Entity: Nancy Manners
+Entity POS: ['PROPN', 'PROPN']
+Previous Word:     | POS: SPACE 
+Next Word: , | POS: PUNCT 
+Context: But yeah, and like   Nancy Manners, I get that thing about, "Everybody 
+I danced with was dead."
+

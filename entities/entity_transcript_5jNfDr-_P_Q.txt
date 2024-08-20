@@ -1,0 +1,518 @@
+Entity POS count: 3
+Entity: nggak ngetik cuman kami
+Entity POS: ['PROPN', 'PROPN', 'PROPN']
+Previous Word: None | POS: None 
+Next Word: kami | POS: PROPN 
+Context: nggak ngetik cuman kami samo Itu tampak Kalimalang kami Dek anu ganja ke kenapa kamu nggak jaga di laut enggak ikut lain media langsung biasa yang kami 142 jadi jadi kebiasaan kami
+
+Entity POS count: 3
+Entity: cuman kami samo Itu
+Entity POS: ['PROPN', 'PROPN', 'PROPN']
+Previous Word: cuman | POS: PROPN 
+Next Word: tampak | POS: VERB 
+Context: nggak ngetik cuman kami samo Itu tampak Kalimalang kami Dek anu ganja ke kenapa kamu nggak jaga di laut enggak ikut lain media langsung biasa yang kami 142 jadi jadi kebiasaan kami
+
+Entity POS count: 1
+Entity: kami Dek
+Entity POS: ['PROPN']
+Previous Word: kami | POS: PROPN 
+Next Word: anu | POS: PROPN 
+Context: nggak ngetik cuman kami samo Itu tampak Kalimalang kami Dek anu ganja ke kenapa kamu nggak jaga di laut enggak ikut lain media langsung biasa yang kami 142 jadi jadi kebiasaan kami
+
+Entity POS count: 7
+Entity: ganja ke kenapa kamu nggak jaga di laut
+Entity POS: ['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN']
+Previous Word: ganja | POS: PROPN 
+Next Word: enggak | POS: PROPN 
+Context: nggak ngetik cuman kami samo Itu tampak Kalimalang kami Dek anu ganja ke kenapa kamu nggak jaga di laut enggak ikut lain media langsung biasa yang kami 142 jadi jadi kebiasaan kami
+
+Entity POS count: 2
+Entity: lain media langsung
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: lain | POS: PROPN 
+Next Word: biasa | POS: PROPN 
+Context: nggak ngetik cuman kami samo Itu tampak Kalimalang kami Dek anu ganja ke kenapa kamu nggak jaga di laut enggak ikut lain media langsung biasa yang kami 142 jadi jadi kebiasaan kami
+
+Entity POS count: 4
+Entity: jadi jadi kebiasaan kami
+Entity POS: ['PROPN', 'PROPN', 'PROPN', 'PROPN']
+Previous Word: 142 | POS: NUM 
+Next Word: [ | POS: X 
+Context: nggak ngetik cuman kami samo Itu tampak Kalimalang kami Dek anu ganja ke kenapa kamu nggak jaga di laut enggak ikut lain media langsung biasa yang kami 142 jadi jadi kebiasaan kami
+
+Entity POS count: 3
+Entity: Indah keturunan Qabil ketika
+Entity POS: ['PROPN', 'PROPN', 'PROPN']
+Previous Word: Indah | POS: PROPN 
+Next Word: Mambo | POS: PROPN 
+Context: [Musik] kami Indah keturunan Qabil ketika Mambo Kami mau coba faktual memang kami dan Akang mau Lilo mau di Indo Logo patuwo
+
+Entity POS count: 3
+Entity: Mambo Kami mau coba
+Entity POS: ['PROPN', 'PROPN', 'PROPN']
+Previous Word: Mambo | POS: PROPN 
+Next Word: faktual | POS: PROPN 
+Context: [Musik] kami Indah keturunan Qabil ketika Mambo Kami mau coba faktual memang kami dan Akang mau Lilo mau di Indo Logo patuwo
+
+Entity POS count: 1
+Entity: faktual memang
+Entity POS: ['PROPN']
+Previous Word: faktual | POS: PROPN 
+Next Word: kami | POS: PROPN 
+Context: [Musik] kami Indah keturunan Qabil ketika Mambo Kami mau coba faktual memang kami dan Akang mau Lilo mau di Indo Logo patuwo
+
+Entity POS count: 9
+Entity: memang kami dan Akang mau Lilo mau di Indo Logo
+Entity POS: ['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN']
+Previous Word: memang | POS: PROPN 
+Next Word: patuwo | POS: PROPN 
+Context: [Musik] kami Indah keturunan Qabil ketika Mambo Kami mau coba faktual memang kami dan Akang mau Lilo mau di Indo Logo patuwo
+
+Entity POS count: 7
+Entity: nyampe-nyampe kita biasa-biasa bumbu
+Entity POS: ['PROPN', 'PUNCT', 'PROPN', 'PROPN', 'PROPN', 'PUNCT', 'PROPN']
+Previous Word: eh | POS: INTJ 
+Next Word: bumbu | POS: PROPN 
+Context: [Musik] tidak segitu eh nyampe-nyampe kita biasa-biasa bumbu gula seperlima jumpa aku bau warnet Umurku 10 Hai [Musik] cantik bacuki fall when the go typing source like dan see his Lego Safari fadloli
+
+Entity POS count: 2
+Entity: seperlima jumpa aku
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: seperlima | POS: PROPN 
+Next Word: bau | POS: PROPN 
+Context: [Musik] tidak segitu eh nyampe-nyampe kita biasa-biasa bumbu gula seperlima jumpa aku bau warnet Umurku 10 Hai [Musik] cantik bacuki fall when the go typing source like dan see his Lego Safari fadloli
+
+Entity POS count: 2
+Entity: bau warnet Umurku
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: bau | POS: PROPN 
+Next Word: 10 | POS: NUM 
+Context: [Musik] tidak segitu eh nyampe-nyampe kita biasa-biasa bumbu gula seperlima jumpa aku bau warnet Umurku 10 Hai [Musik] cantik bacuki fall when the go typing source like dan see his Lego Safari fadloli
+
+Entity POS count: 6
+Entity: Hai [Musik] cantik bacuki
+Entity POS: ['PROPN', 'PUNCT', 'PROPN', 'X', 'PROPN', 'PROPN']
+Previous Word: 10 | POS: NUM 
+Next Word: fall | POS: VERB 
+Context: [Musik] tidak segitu eh nyampe-nyampe kita biasa-biasa bumbu gula seperlima jumpa aku bau warnet Umurku 10 Hai [Musik] cantik bacuki fall when the go typing source like dan see his Lego Safari fadloli
+
+Entity POS count: 1
+Entity: dan
+Entity POS: ['PROPN']
+Previous Word: like | POS: ADP 
+Next Word: see | POS: VERB 
+Context: [Musik] tidak segitu eh nyampe-nyampe kita biasa-biasa bumbu gula seperlima jumpa aku bau warnet Umurku 10 Hai [Musik] cantik bacuki fall when the go typing source like dan see his Lego Safari fadloli
+
+Entity POS count: 1
+Entity: Lego Safari
+Entity POS: ['PROPN']
+Previous Word: his | POS: PRON 
+Next Word: Safari | POS: PROPN 
+Context: [Musik] tidak segitu eh nyampe-nyampe kita biasa-biasa bumbu gula seperlima jumpa aku bau warnet Umurku 10 Hai [Musik] cantik bacuki fall when the go typing source like dan see his Lego Safari fadloli
+
+Entity POS count: 1
+Entity: Lego Safari
+Entity POS: ['PROPN']
+Previous Word: Lego | POS: PROPN 
+Next Word: fadloli | POS: NOUN 
+Context: [Musik] tidak segitu eh nyampe-nyampe kita biasa-biasa bumbu gula seperlima jumpa aku bau warnet Umurku 10 Hai [Musik] cantik bacuki fall when the go typing source like dan see his Lego Safari fadloli
+
+Entity POS count: 2
+Entity: different dvaj tiba
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: different | POS: ADJ 
+Next Word: [ | POS: X 
+Context: The Rain the driver what is not possible without lightning Twitter for him so the guise of fifteen meters so just really different dvaj tiba
+
+Entity POS count: 2
+Entity: Indah Mas Waku
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: Indah | POS: PROPN 
+Next Word: Didik | POS: PROPN 
+Context: [Musik] Indah Mas Waku Didik indah4 tahu aku udah Mama Ane baca2 tuh mau aku
+
+Entity POS count: 1
+Entity: Didik indah4
+Entity POS: ['PROPN']
+Previous Word: Didik | POS: PROPN 
+Next Word: tahu | POS: NOUN 
+Context: [Musik] Indah Mas Waku Didik indah4 tahu aku udah Mama Ane baca2 tuh mau aku
+
+Entity POS count: 6
+Entity: indah4 tahu aku udah Mama Ane baca2
+Entity POS: ['NOUN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'NOUN']
+Previous Word: indah4 | POS: PROPN 
+Next Word: tuh | POS: NOUN 
+Context: [Musik] Indah Mas Waku Didik indah4 tahu aku udah Mama Ane baca2 tuh mau aku
+
+Entity POS count: 2
+Entity: tuh mau aku
+Entity POS: ['NOUN', 'PROPN']
+Previous Word: tuh | POS: NOUN 
+Next Word: Bona | POS: PROPN 
+Context: [Musik] Indah Mas Waku Didik indah4 tahu aku udah Mama Ane baca2 tuh mau aku
+
+Entity POS count: 2
+Entity: Bona Iru Koto
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: Bona | POS: PROPN 
+Next Word: naku | POS: PROPN 
+Context: Bona Iru Koto naku waktu wong e
+
+Entity POS count: 10
+Entity: hai bodoh kupu-kupu ini Lek anu Ponggok Udah Yah
+Entity POS: ['PROPN', 'PROPN', 'PROPN', 'PUNCT', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN']
+Previous Word: ] | POS: X 
+Next Word: Yah | POS: PROPN 
+Context: [Musik] hai bodoh kupu-kupu ini Lek anu Ponggok Udah
+
+Entity POS count: 4
+Entity: legenda Didi Ki dulu dahulu
+Entity POS: ['PROPN', 'PROPN', 'PROPN', 'PRON']
+Previous Word: legenda | POS: PROPN 
+Next Word: kita | POS: PROPN 
+Context: Yah lu bazaar legenda Didi Ki dulu dahulu kita masih
+
+Entity POS count: 2
+Entity: kita masih Pak
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: dahulu | POS: PRON 
+Next Word: Pak | POS: PROPN 
+Context: Yah lu bazaar legenda Didi Ki dulu dahulu kita masih
+
+Entity POS count: 4
+Entity: masih Pak Rudi dari kita
+Entity POS: ['PROPN', 'PROPN', 'PROPN', 'PROPN']
+Previous Word: masih | POS: PROPN 
+Next Word: Jeng | POS: PROPN 
+Context: Pak Rudi dari kita Jeng kami berjudul lagi pak ulahnya
+
+Entity POS count: 3
+Entity: kami berjudul lagi pak
+Entity POS: ['NOUN', 'PROPN', 'PROPN']
+Previous Word: kami | POS: PROPN 
+Next Word: ulahnya | POS: PROPN 
+Context: Pak Rudi dari kita Jeng kami berjudul lagi pak ulahnya
+
+Entity POS count: 7
+Entity: ulahnya deh nah kita le gara-gara
+Entity POS: ['PROPN', 'INTJ', 'PROPN', 'X', 'PROPN', 'PUNCT', 'PROPN']
+Previous Word: ulahnya | POS: PROPN 
+Next Word: lebih | POS: PROPN 
+Context: deh nah kita le gara-gara lebih siap mahal-mahal merusak batu Hai sama itu enggak boleh gagal kamilau
+
+Entity POS count: 4
+Entity: lebih siap mahal-mahal
+Entity POS: ['PROPN', 'PROPN', 'PUNCT', 'PROPN']
+Previous Word: lebih | POS: PROPN 
+Next Word: merusak | POS: PROPN 
+Context: deh nah kita le gara-gara lebih siap mahal-mahal merusak batu Hai sama itu enggak boleh gagal kamilau
+
+Entity POS count: 6
+Entity: merusak batu Hai sama itu enggak boleh
+Entity POS: ['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN']
+Previous Word: merusak | POS: PROPN 
+Next Word: gagal | POS: PROPN 
+Context: deh nah kita le gara-gara lebih siap mahal-mahal merusak batu Hai sama itu enggak boleh gagal kamilau
+
+Entity POS count: 1
+Entity: kamilau kelelahan
+Entity POS: ['PROPN']
+Previous Word: kamilau | POS: PROPN 
+Next Word: merusak | POS: PROPN 
+Context: kelelahan merusak baku dalam rusak bius kalau KB sebaiknya masih Dicky ke bumbu kami setiap Pulau kami ngajaga didao apa lama palalo kami dari rusak-rusak batu doain lagi penemuan
+
+Entity POS count: 4
+Entity: merusak baku dalam rusak bius
+Entity POS: ['PROPN', 'PROPN', 'PROPN', 'PROPN']
+Previous Word: merusak | POS: PROPN 
+Next Word: kalau | POS: PROPN 
+Context: kelelahan merusak baku dalam rusak bius kalau KB sebaiknya masih Dicky ke bumbu kami setiap Pulau kami ngajaga didao apa lama palalo kami dari rusak-rusak batu doain lagi penemuan
+
+Entity POS count: 2
+Entity: bius kalau KB
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: bius | POS: PROPN 
+Next Word: sebaiknya | POS: PROPN 
+Context: kelelahan merusak baku dalam rusak bius kalau KB sebaiknya masih Dicky ke bumbu kami setiap Pulau kami ngajaga didao apa lama palalo kami dari rusak-rusak batu doain lagi penemuan
+
+Entity POS count: 4
+Entity: KB sebaiknya masih Dicky ke
+Entity POS: ['PROPN', 'PROPN', 'PROPN', 'PROPN']
+Previous Word: KB | POS: PROPN 
+Next Word: bumbu | POS: PROPN 
+Context: kelelahan merusak baku dalam rusak bius kalau KB sebaiknya masih Dicky ke bumbu kami setiap Pulau kami ngajaga didao apa lama palalo kami dari rusak-rusak batu doain lagi penemuan
+
+Entity POS count: 2
+Entity: bumbu kami setiap
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: bumbu | POS: PROPN 
+Next Word: Pulau | POS: PROPN 
+Context: kelelahan merusak baku dalam rusak bius kalau KB sebaiknya masih Dicky ke bumbu kami setiap Pulau kami ngajaga didao apa lama palalo kami dari rusak-rusak batu doain lagi penemuan
+
+Entity POS count: 1
+Entity: setiap Pulau
+Entity POS: ['PROPN']
+Previous Word: setiap | POS: PROPN 
+Next Word: kami | POS: PROPN 
+Context: kelelahan merusak baku dalam rusak bius kalau KB sebaiknya masih Dicky ke bumbu kami setiap Pulau kami ngajaga didao apa lama palalo kami dari rusak-rusak batu doain lagi penemuan
+
+Entity POS count: 11
+Entity: Pulau kami ngajaga didao apa lama palalo kami dari rusak-rusak
+Entity POS: ['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PUNCT', 'PROPN']
+Previous Word: Pulau | POS: PROPN 
+Next Word: batu | POS: PROPN 
+Context: kelelahan merusak baku dalam rusak bius kalau KB sebaiknya masih Dicky ke bumbu kami setiap Pulau kami ngajaga didao apa lama palalo kami dari rusak-rusak batu doain lagi penemuan
+
+Entity POS count: 4
+Entity: rusak batu doain lagi penemuan
+Entity POS: ['PROPN', 'PROPN', 'PROPN', 'PROPN']
+Previous Word: rusak | POS: PROPN 
+Next Word: Dayah | POS: PROPN 
+Context: kelelahan merusak baku dalam rusak bius kalau KB sebaiknya masih Dicky ke bumbu kami setiap Pulau kami ngajaga didao apa lama palalo kami dari rusak-rusak batu doain lagi penemuan
+
+Entity POS count: 1
+Entity: penemuan Dayah
+Entity POS: ['PROPN']
+Previous Word: penemuan | POS: PROPN 
+Next Word: namakan | POS: PROPN 
+Context: Dayah namakan siluman biru [Musik] yang cukup efektif untuk membuat suku baju ini menjaga terumbu karang itu adalah bagaimana kearifan lokal mereka masih Lestari sebagaimana adat istiadat mereka masih hidup
+
+Entity POS count: 1
+Entity: Dayah namakan
+Entity POS: ['PROPN']
+Previous Word: Dayah | POS: PROPN 
+Next Word: siluman | POS: PROPN 
+Context: Dayah namakan siluman biru [Musik] yang cukup efektif untuk membuat suku baju ini menjaga terumbu karang itu adalah bagaimana kearifan lokal mereka masih Lestari sebagaimana adat istiadat mereka masih hidup
+
+Entity POS count: 1
+Entity: siluman biru
+Entity POS: ['PROPN']
+Previous Word: siluman | POS: PROPN 
+Next Word: [ | POS: PUNCT 
+Context: Dayah namakan siluman biru [Musik] yang cukup efektif untuk membuat suku baju ini menjaga terumbu karang itu adalah bagaimana kearifan lokal mereka masih Lestari sebagaimana adat istiadat mereka masih hidup
+
+Entity POS count: 5
+Entity: yang cukup efektif untuk membuat suku
+Entity POS: ['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN']
+Previous Word: ] | POS: X 
+Next Word: suku | POS: PROPN 
+Context: Dayah namakan siluman biru [Musik] yang cukup efektif untuk membuat suku baju ini menjaga terumbu karang itu adalah bagaimana kearifan lokal mereka masih Lestari sebagaimana adat istiadat mereka masih hidup
+
+Entity POS count: 4
+Entity: membuat suku baju ini menjaga
+Entity POS: ['PROPN', 'PROPN', 'PROPN', 'PROPN']
+Previous Word: membuat | POS: PROPN 
+Next Word: terumbu | POS: PROPN 
+Context: Dayah namakan siluman biru [Musik] yang cukup efektif untuk membuat suku baju ini menjaga terumbu karang itu adalah bagaimana kearifan lokal mereka masih Lestari sebagaimana adat istiadat mereka masih hidup
+
+Entity POS count: 4
+Entity: terumbu karang itu adalah bagaimana
+Entity POS: ['PROPN', 'PROPN', 'PROPN', 'PROPN']
+Previous Word: terumbu | POS: PROPN 
+Next Word: kearifan | POS: PROPN 
+Context: Dayah namakan siluman biru [Musik] yang cukup efektif untuk membuat suku baju ini menjaga terumbu karang itu adalah bagaimana kearifan lokal mereka masih Lestari sebagaimana adat istiadat mereka masih hidup
+
+Entity POS count: 2
+Entity: bagaimana kearifan lokal
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: bagaimana | POS: PROPN 
+Next Word: mereka | POS: PROPN 
+Context: Dayah namakan siluman biru [Musik] yang cukup efektif untuk membuat suku baju ini menjaga terumbu karang itu adalah bagaimana kearifan lokal mereka masih Lestari sebagaimana adat istiadat mereka masih hidup
+
+Entity POS count: 2
+Entity: mereka masih Lestari
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: mereka | POS: PROPN 
+Next Word: sebagaimana | POS: PROPN 
+Context: Dayah namakan siluman biru [Musik] yang cukup efektif untuk membuat suku baju ini menjaga terumbu karang itu adalah bagaimana kearifan lokal mereka masih Lestari sebagaimana adat istiadat mereka masih hidup
+
+Entity POS count: 3
+Entity: Lestari sebagaimana adat istiadat
+Entity POS: ['PROPN', 'PROPN', 'VERB']
+Previous Word: Lestari | POS: PROPN 
+Next Word: mereka | POS: PROPN 
+Context: Dayah namakan siluman biru [Musik] yang cukup efektif untuk membuat suku baju ini menjaga terumbu karang itu adalah bagaimana kearifan lokal mereka masih Lestari sebagaimana adat istiadat mereka masih hidup
+
+Entity POS count: 2
+Entity: mereka masih hidup
+Entity POS: ['PROPN', 'NOUN']
+Previous Word: mereka | POS: PROPN 
+Next Word: ada | POS: PROPN 
+Context: Dayah namakan siluman biru [Musik] yang cukup efektif untuk membuat suku baju ini menjaga terumbu karang itu adalah bagaimana kearifan lokal mereka masih Lestari sebagaimana adat istiadat mereka masih hidup
+
+Entity POS count: 3
+Entity: hidup ada tujuh Taman
+Entity POS: ['PROPN', 'PROPN', 'PROPN']
+Previous Word: hidup | POS: NOUN 
+Next Word: Nasional | POS: PROPN 
+Context: ada tujuh Taman Nasional Laut di Indonesia lima diantaranya itu dihuni oleh orang-orang Bajo Nah kalau kita ingin laut kita masih tetap in ah terumbu karang kita masih tetap
+
+Entity POS count: 1
+Entity: Nasional Laut
+Entity POS: ['PROPN']
+Previous Word: Nasional | POS: PROPN 
+Next Word: di | POS: PROPN 
+Context: ada tujuh Taman Nasional Laut di Indonesia lima diantaranya itu dihuni oleh orang-orang Bajo Nah kalau kita ingin laut kita masih tetap in ah terumbu karang kita masih tetap
+
+Entity POS count: 1
+Entity: di Indonesia
+Entity POS: ['PROPN']
+Previous Word: di | POS: PROPN 
+Next Word: lima | POS: PROPN 
+Context: ada tujuh Taman Nasional Laut di Indonesia lima diantaranya itu dihuni oleh orang-orang Bajo Nah kalau kita ingin laut kita masih tetap in ah terumbu karang kita masih tetap
+
+Entity POS count: 1
+Entity: Indonesia lima
+Entity POS: ['PROPN']
+Previous Word: Indonesia | POS: PROPN 
+Next Word: diantaranya | POS: PROPN 
+Context: ada tujuh Taman Nasional Laut di Indonesia lima diantaranya itu dihuni oleh orang-orang Bajo Nah kalau kita ingin laut kita masih tetap in ah terumbu karang kita masih tetap
+
+Entity POS count: 7
+Entity: lima diantaranya itu dihuni oleh orang-orang
+Entity POS: ['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PUNCT', 'PROPN']
+Previous Word: lima | POS: PROPN 
+Next Word: Bajo | POS: PROPN 
+Context: ada tujuh Taman Nasional Laut di Indonesia lima diantaranya itu dihuni oleh orang-orang Bajo Nah kalau kita ingin laut kita masih tetap in ah terumbu karang kita masih tetap
+
+Entity POS count: 2
+Entity: orang Bajo Nah
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: orang | POS: PROPN 
+Next Word: kalau | POS: PROPN 
+Context: ada tujuh Taman Nasional Laut di Indonesia lima diantaranya itu dihuni oleh orang-orang Bajo Nah kalau kita ingin laut kita masih tetap in ah terumbu karang kita masih tetap
+
+Entity POS count: 2
+Entity: Nah kalau kita
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: Nah | POS: PROPN 
+Next Word: ingin | POS: PROPN 
+Context: ada tujuh Taman Nasional Laut di Indonesia lima diantaranya itu dihuni oleh orang-orang Bajo Nah kalau kita ingin laut kita masih tetap in ah terumbu karang kita masih tetap
+
+Entity POS count: 5
+Entity: kita ingin laut kita masih tetap
+Entity POS: ['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN']
+Previous Word: kita | POS: PROPN 
+Next Word: in | POS: ADP 
+Context: ada tujuh Taman Nasional Laut di Indonesia lima diantaranya itu dihuni oleh orang-orang Bajo Nah kalau kita ingin laut kita masih tetap in ah terumbu karang kita masih tetap
+
+Entity POS count: 3
+Entity: terumbu karang kita masih
+Entity POS: ['PROPN', 'PROPN', 'PROPN']
+Previous Word: terumbu | POS: PROPN 
+Next Word: tetap | POS: PROPN 
+Context: ada tujuh Taman Nasional Laut di Indonesia lima diantaranya itu dihuni oleh orang-orang Bajo Nah kalau kita ingin laut kita masih tetap in ah terumbu karang kita masih tetap
+
+Entity POS count: 2
+Entity: tetap Lestari Saya
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: tetap | POS: PROPN 
+Next Word: rasa | POS: PROPN 
+Context: Lestari Saya rasa baju mesti diberikan peran
+
+Entity POS count: 1
+Entity: rasa baju
+Entity POS: ['PROPN']
+Previous Word: rasa | POS: PROPN 
+Next Word: mesti | POS: PROPN 
+Context: Lestari Saya rasa baju mesti diberikan peran
+
+Entity POS count: 1
+Entity: mesti diberikan
+Entity POS: ['PROPN']
+Previous Word: mesti | POS: PROPN 
+Next Word: peran | POS: PROPN 
+Context: Lestari Saya rasa baju mesti diberikan peran
+
+Entity POS count: 3
+Entity: peran yang sangat besar
+Entity POS: ['PROPN', 'PROPN', 'PROPN']
+Previous Word: peran | POS: PROPN 
+Next Word: kalau | POS: PROPN 
+Context: yang sangat besar kalau bisa dia di Garda terdepan untuk menjaga ini laut jika orang baju tidak mengambil peran serasa terumbu karang yang indah laut yang indah di Indonesia ini akan tinggal kenangan kalau suku Bajo tidak diberikan peran yang cukup besar [Musik]
+
+Entity POS count: 1
+Entity: besar kalau
+Entity POS: ['PROPN']
+Previous Word: besar | POS: PROPN 
+Next Word: bisa | POS: PROPN 
+Context: yang sangat besar kalau bisa dia di Garda terdepan untuk menjaga ini laut jika orang baju tidak mengambil peran serasa terumbu karang yang indah laut yang indah di Indonesia ini akan tinggal kenangan kalau suku Bajo tidak diberikan peran yang cukup besar [Musik]
+
+Entity POS count: 3
+Entity: bisa dia di Garda
+Entity POS: ['PROPN', 'PROPN', 'PROPN']
+Previous Word: bisa | POS: PROPN 
+Next Word: terdepan | POS: PROPN 
+Context: yang sangat besar kalau bisa dia di Garda terdepan untuk menjaga ini laut jika orang baju tidak mengambil peran serasa terumbu karang yang indah laut yang indah di Indonesia ini akan tinggal kenangan kalau suku Bajo tidak diberikan peran yang cukup besar [Musik]
+
+Entity POS count: 6
+Entity: Garda terdepan untuk menjaga ini laut jika
+Entity POS: ['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN']
+Previous Word: Garda | POS: PROPN 
+Next Word: orang | POS: PROPN 
+Context: yang sangat besar kalau bisa dia di Garda terdepan untuk menjaga ini laut jika orang baju tidak mengambil peran serasa terumbu karang yang indah laut yang indah di Indonesia ini akan tinggal kenangan kalau suku Bajo tidak diberikan peran yang cukup besar [Musik]
+
+Entity POS count: 2
+Entity: orang baju tidak
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: orang | POS: PROPN 
+Next Word: mengambil | POS: PROPN 
+Context: yang sangat besar kalau bisa dia di Garda terdepan untuk menjaga ini laut jika orang baju tidak mengambil peran serasa terumbu karang yang indah laut yang indah di Indonesia ini akan tinggal kenangan kalau suku Bajo tidak diberikan peran yang cukup besar [Musik]
+
+Entity POS count: 1
+Entity: tidak mengambil
+Entity POS: ['PROPN']
+Previous Word: tidak | POS: PROPN 
+Next Word: peran | POS: PROPN 
+Context: yang sangat besar kalau bisa dia di Garda terdepan untuk menjaga ini laut jika orang baju tidak mengambil peran serasa terumbu karang yang indah laut yang indah di Indonesia ini akan tinggal kenangan kalau suku Bajo tidak diberikan peran yang cukup besar [Musik]
+
+Entity POS count: 2
+Entity: mengambil peran serasa
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: mengambil | POS: PROPN 
+Next Word: terumbu | POS: PROPN 
+Context: yang sangat besar kalau bisa dia di Garda terdepan untuk menjaga ini laut jika orang baju tidak mengambil peran serasa terumbu karang yang indah laut yang indah di Indonesia ini akan tinggal kenangan kalau suku Bajo tidak diberikan peran yang cukup besar [Musik]
+
+Entity POS count: 3
+Entity: terumbu karang yang indah
+Entity POS: ['PROPN', 'PROPN', 'PROPN']
+Previous Word: terumbu | POS: PROPN 
+Next Word: laut | POS: PROPN 
+Context: yang sangat besar kalau bisa dia di Garda terdepan untuk menjaga ini laut jika orang baju tidak mengambil peran serasa terumbu karang yang indah laut yang indah di Indonesia ini akan tinggal kenangan kalau suku Bajo tidak diberikan peran yang cukup besar [Musik]
+
+Entity POS count: 3
+Entity: indah laut yang indah
+Entity POS: ['PROPN', 'PROPN', 'PROPN']
+Previous Word: indah | POS: PROPN 
+Next Word: di | POS: PROPN 
+Context: yang sangat besar kalau bisa dia di Garda terdepan untuk menjaga ini laut jika orang baju tidak mengambil peran serasa terumbu karang yang indah laut yang indah di Indonesia ini akan tinggal kenangan kalau suku Bajo tidak diberikan peran yang cukup besar [Musik]
+
+Entity POS count: 2
+Entity: Indonesia ini akan
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: Indonesia | POS: PROPN 
+Next Word: tinggal | POS: PROPN 
+Context: yang sangat besar kalau bisa dia di Garda terdepan untuk menjaga ini laut jika orang baju tidak mengambil peran serasa terumbu karang yang indah laut yang indah di Indonesia ini akan tinggal kenangan kalau suku Bajo tidak diberikan peran yang cukup besar [Musik]
+
+Entity POS count: 1
+Entity: tinggal kenangan
+Entity POS: ['PROPN']
+Previous Word: tinggal | POS: PROPN 
+Next Word: kalau | POS: PROPN 
+Context: yang sangat besar kalau bisa dia di Garda terdepan untuk menjaga ini laut jika orang baju tidak mengambil peran serasa terumbu karang yang indah laut yang indah di Indonesia ini akan tinggal kenangan kalau suku Bajo tidak diberikan peran yang cukup besar [Musik]
+
+Entity POS count: 2
+Entity: suku Bajo tidak
+Entity POS: ['PROPN', 'PROPN']
+Previous Word: suku | POS: PROPN 
+Next Word: diberikan | POS: PROPN 
+Context: yang sangat besar kalau bisa dia di Garda terdepan untuk menjaga ini laut jika orang baju tidak mengambil peran serasa terumbu karang yang indah laut yang indah di Indonesia ini akan tinggal kenangan kalau suku Bajo tidak diberikan peran yang cukup besar [Musik]
+
+Entity POS count: 4
+Entity: diberikan peran yang cukup besar
+Entity POS: ['PROPN', 'PROPN', 'PROPN', 'PROPN']
+Previous Word: diberikan | POS: PROPN 
+Next Word: [ | POS: X 
+Context: yang sangat besar kalau bisa dia di Garda terdepan untuk menjaga ini laut jika orang baju tidak mengambil peran serasa terumbu karang yang indah laut yang indah di Indonesia ini akan tinggal kenangan kalau suku Bajo tidak diberikan peran yang cukup besar [Musik]
+
