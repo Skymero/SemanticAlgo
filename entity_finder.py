@@ -1,5 +1,36 @@
 import spacy
 import os
+import langdetect
+from spacy.language import Language
+from langdetect import detect
+from googletrans import Translator
+
+@Language.component("translate_to_english")
+def translate_to_english(doc):
+    
+
+    nlp = spacy.load("en_core_web_lg")
+
+    print("UNTRANSLATED: " + doc.text)
+    
+    translator = Translator()
+
+    translated = translator.translate(doc.text, src="auto", dest="en")
+    #doc._.translated_text = translated.text
+    doc._.set_extension("translated_text", translated.text)
+    print("TRANSLATED: " + doc._.translated_text)
+
+    return doc
+
+
+def check_if_english(doc, filename):
+    language = detect(doc.text)
+
+    if language != 'en':
+        print(f"Error: New file is in {language}. Not English.")
+        return False
+
+    return True
 
 def check_new_filename(new_filename):
     """
@@ -22,16 +53,16 @@ def check_new_filename(new_filename):
         return False
     
     # Check if the filename already exists
-    if os.path.exists(new_filename):
-        print("Error: New filename already exists.")
-        return False
-    
+    # if os.path.exists(new_filename):
+    #     print("Error: New filename already exists.")
+    #     return False    
     return True
 
 
 def entity_finder(doc, transcript_name):
     seen_entities = set()
-
+    entity_list = []
+    
     with open(transcript_name, "w", encoding='utf-8') as file:
         for ent in doc.ents:
             if ent.label_ != "QUANTITY" and ent.label_ != "MONEY" and ent.label_ != "DATE" and ent.label_ != "TIME" and ent.label_ != "CARDINAL" and ent.label_ != "LANGUAGE" and ent.label_ != "PERCENT" and ent.label_ != "ORDINAL":
@@ -84,6 +115,7 @@ def entity_finder(doc, transcript_name):
                     # print(f"Next Word: {next_word} | POS: {next_pos}")
                     
                     file.write(f"Entity: {entity_text}\n")
+                    entity_list.append(entity_text)
                     file.write(f"Entity POS: {entity_pos}\n")
                     file.write(f"Previous Word: {prev_word} | POS: {prev_pos} \n")
                     file.write(f"Next Word: {next_word} | POS: {next_pos} \n")
@@ -95,6 +127,9 @@ def entity_finder(doc, transcript_name):
                     
             else:
                 continue
+        file.write(f"Entity List: {entity_list}\n")
+
+
 
 def main():
     # Load the English model
@@ -102,7 +137,7 @@ def main():
 
     folder_path = 'C:\\Users\\MartinezR\\SemanticAlgo\\transcripts'
     new_folder_path = 'C:\\Users\\MartinezR\\SemanticAlgo\\entities'
-
+    entities = []
     for filename in os.listdir(folder_path):
         if filename.endswith(".txt"):
             new_filename = f'entity_{filename}'
@@ -112,9 +147,23 @@ def main():
             with open(old_filepath, 'r', encoding='utf-8') as file:
                 text = file.read()
 
+            # spacy.tokens.Doc.set_extension("translated_text", default=None)
+            nlp.add_pipe("translate_to_english", last=True)
+            
             doc = nlp(text)
-            if check_new_filename(new_file_path) == True:
-                entity_finder(doc, new_file_path)
+            
+            if check_if_english(doc, filename) == True:
+
+                if check_new_filename(new_file_path) == True:
+                    entity_finder(doc, new_file_path)
+            else:
+                #translate to english
+                # doc = translate_to_english(doc)
+                if doc != 'None':
+                    if check_if_english(doc, filename) == True:
+                        if check_new_filename(new_file_path) == True:
+                            entity_finder(doc, new_file_path)
+
 
 
 if __name__ == "__main__":
