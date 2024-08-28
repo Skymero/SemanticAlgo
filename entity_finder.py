@@ -5,25 +5,34 @@ from spacy.language import Language
 from langdetect import detect
 from googletrans import Translator
 
+# Set the extension outside the function
+spacy.tokens.Doc.set_extension("translated_text", default=None, force=True)
+
 @Language.component("translate_to_english")
 def translate_to_english(doc):
-    
 
-    nlp = spacy.load("en_core_web_lg")
-
-    print("UNTRANSLATED: " + doc.text)
+    language = detect(doc.text)
+    if language == 'en':
+        return doc
     
     translator = Translator()
+    try:
+        translated = translator.translate(doc.text, src=language, dest="en")
+        if translated is not None:
+            # Set the translated text to the extension
+            doc._.translated_text = translated.text
 
-    translated = translator.translate(doc.text, src="auto", dest="en")
-    #doc._.translated_text = translated.text
-    doc._.set_extension("translated_text", translated.text)
-    print("TRANSLATED: " + doc._.translated_text)
+        else:
+            print("Translation not available.")
+            doc._.translated_text = None
+
+    except Exception as e:
+        print(f"Translation failed: {e}")
+        doc._.translated_text = None
 
     return doc
 
-
-def check_if_english(doc, filename):
+def check_if_english(doc):
     language = detect(doc.text)
 
     if language != 'en':
@@ -58,11 +67,10 @@ def check_new_filename(new_filename):
     #     return False    
     return True
 
-
 def entity_finder(doc, transcript_name):
     seen_entities = set()
     entity_list = []
-    
+
     with open(transcript_name, "w", encoding='utf-8') as file:
         for ent in doc.ents:
             if ent.label_ != "QUANTITY" and ent.label_ != "MONEY" and ent.label_ != "DATE" and ent.label_ != "TIME" and ent.label_ != "CARDINAL" and ent.label_ != "LANGUAGE" and ent.label_ != "PERCENT" and ent.label_ != "ORDINAL":
@@ -147,22 +155,25 @@ def main():
             with open(old_filepath, 'r', encoding='utf-8') as file:
                 text = file.read()
 
-            # spacy.tokens.Doc.set_extension("translated_text", default=None)
-            nlp.add_pipe("translate_to_english", last=True)
-            
-            doc = nlp(text)
-            
-            if check_if_english(doc, filename) == True:
+                # Check if the component is already in the pipeline
+                if "translate_to_english" not in nlp.pipe_names:
+                    nlp.add_pipe("translate_to_english", last=True)
+                
+                doc = nlp(text)
+
+                if check_if_english(doc) == False:
+                    translated_doc= translate_to_english(doc)
+
+                    doc = nlp(translated_doc._.translated_text)
 
                 if check_new_filename(new_file_path) == True:
                     entity_finder(doc, new_file_path)
-            else:
-                #translate to english
-                # doc = translate_to_english(doc)
-                if doc != 'None':
-                    if check_if_english(doc, filename) == True:
-                        if check_new_filename(new_file_path) == True:
-                            entity_finder(doc, new_file_path)
+                
+                # #translate to english
+                # # Translate to English
+                # if doc._.translated_text:
+                #     if check_new_filename(new_file_path):
+                #         entity_finder(doc, new_file_path)
 
 
 
