@@ -1,0 +1,177 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/usr/share/cmake/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:4 (project)"
+    message: |
+      The system is: MSYS - 3.5.3-d8b21b8c.x86_64 - x86_64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/usr/share/cmake/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/usr/share/cmake/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/usr/share/cmake/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:4 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: /mingw64/bin/cc.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+      
+      The C compiler identification is GNU, found in:
+        /c/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/3.30.1/CompilerIdC/a.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/usr/share/cmake/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/usr/share/cmake/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/usr/share/cmake/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:4 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: /mingw64/bin/c++.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+      
+      The CXX compiler identification is GNU, found in:
+        /c/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/3.30.1/CompilerIdCXX/a.exe
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/usr/share/cmake/Modules/CMakeDetermineCompilerABI.cmake:74 (try_compile)"
+      - "/usr/share/cmake/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:4 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "/c/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/CMakeScratch/TryCompile-HE3O7C"
+      binary: "/c/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/CMakeScratch/TryCompile-HE3O7C"
+    cmakeVariables:
+      CMAKE_C_FLAGS: ""
+      CMAKE_C_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: "-Wl,--enable-auto-import"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: '/c/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/CMakeScratch/TryCompile-HE3O7C'
+        
+        Run Build Command(s): /usr/bin/cmake.exe -E env VERBOSE=1 /c/ProgramData/chocolatey/bin/make.exe -f Makefile cmTC_8518e/fast
+        C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe  -f CMakeFiles/cmTC_8518e.dir/build.make CMakeFiles/cmTC_8518e.dir/build
+        make[1]: Entering directory 'C:/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/CMakeScratch/TryCompile-HE3O7C'
+        make[1]: *** No rule to make target '/usr/share/cmake/Modules/CMakeCCompilerABI.c', needed by 'CMakeFiles/cmTC_8518e.dir/CMakeCCompilerABI.c.o'.  Stop.
+        make[1]: Leaving directory 'C:/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/CMakeScratch/TryCompile-HE3O7C'
+        make: *** [Makefile:127: cmTC_8518e/fast] Error 2
+        
+      exitCode: 2
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/usr/share/cmake/Modules/CMakeTestCCompiler.cmake:56 (try_compile)"
+      - "CMakeLists.txt:4 (project)"
+    checks:
+      - "Check for working C compiler: /mingw64/bin/cc.exe"
+    directories:
+      source: "/c/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/CMakeScratch/TryCompile-51ceqG"
+      binary: "/c/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/CMakeScratch/TryCompile-51ceqG"
+    cmakeVariables:
+      CMAKE_C_FLAGS: ""
+      CMAKE_C_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: "-Wl,--enable-auto-import"
+    buildResult:
+      variable: "CMAKE_C_COMPILER_WORKS"
+      cached: true
+      stdout: |
+        Change Dir: '/c/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/CMakeScratch/TryCompile-51ceqG'
+        
+        Run Build Command(s): /usr/bin/cmake.exe -E env VERBOSE=1 /c/ProgramData/chocolatey/bin/make.exe -f Makefile cmTC_b4be0/fast
+        C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe  -f CMakeFiles/cmTC_b4be0.dir/build.make CMakeFiles/cmTC_b4be0.dir/build
+        make[1]: Entering directory 'C:/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/CMakeScratch/TryCompile-51ceqG'
+        Building C object CMakeFiles/cmTC_b4be0.dir/testCCompiler.c.o
+        /mingw64/bin/cc.exe    -o CMakeFiles/cmTC_b4be0.dir/testCCompiler.c.o -c /c/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/CMakeScratch/TryCompile-51ceqG/testCCompiler.c
+        Linking C executable cmTC_b4be0.exe
+        /usr/bin/cmake.exe -E cmake_link_script CMakeFiles/cmTC_b4be0.dir/link.txt --verbose=1
+        /mingw64/bin/cc.exe -Wl,--enable-auto-import  CMakeFiles/cmTC_b4be0.dir/testCCompiler.c.o -o cmTC_b4be0.exe -Wl,--out-implib,libcmTC_b4be0.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        make[1]: Leaving directory 'C:/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/CMakeScratch/TryCompile-51ceqG'
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/usr/share/cmake/Modules/CMakeDetermineCompilerABI.cmake:74 (try_compile)"
+      - "/usr/share/cmake/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:4 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "/c/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/CMakeScratch/TryCompile-6o22Dm"
+      binary: "/c/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/CMakeScratch/TryCompile-6o22Dm"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_EXE_LINKER_FLAGS: "-Wl,--enable-auto-import"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: '/c/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/CMakeScratch/TryCompile-6o22Dm'
+        
+        Run Build Command(s): /usr/bin/cmake.exe -E env VERBOSE=1 /c/ProgramData/chocolatey/bin/make.exe -f Makefile cmTC_26b9d/fast
+        C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe  -f CMakeFiles/cmTC_26b9d.dir/build.make CMakeFiles/cmTC_26b9d.dir/build
+        make[1]: Entering directory 'C:/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/CMakeScratch/TryCompile-6o22Dm'
+        make[1]: *** No rule to make target '/usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp', needed by 'CMakeFiles/cmTC_26b9d.dir/CMakeCXXCompilerABI.cpp.o'.  Stop.
+        make[1]: Leaving directory 'C:/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/CMakeScratch/TryCompile-6o22Dm'
+        make: *** [Makefile:127: cmTC_26b9d/fast] Error 2
+        
+      exitCode: 2
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/usr/share/cmake/Modules/CMakeTestCXXCompiler.cmake:56 (try_compile)"
+      - "CMakeLists.txt:4 (project)"
+    checks:
+      - "Check for working CXX compiler: /mingw64/bin/c++.exe"
+    directories:
+      source: "/c/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/CMakeScratch/TryCompile-Wg34Tg"
+      binary: "/c/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/CMakeScratch/TryCompile-Wg34Tg"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_EXE_LINKER_FLAGS: "-Wl,--enable-auto-import"
+    buildResult:
+      variable: "CMAKE_CXX_COMPILER_WORKS"
+      cached: true
+      stdout: |
+        Change Dir: '/c/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/CMakeScratch/TryCompile-Wg34Tg'
+        
+        Run Build Command(s): /usr/bin/cmake.exe -E env VERBOSE=1 /c/ProgramData/chocolatey/bin/make.exe -f Makefile cmTC_8b66b/fast
+        C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe  -f CMakeFiles/cmTC_8b66b.dir/build.make CMakeFiles/cmTC_8b66b.dir/build
+        make[1]: Entering directory 'C:/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/CMakeScratch/TryCompile-Wg34Tg'
+        Building CXX object CMakeFiles/cmTC_8b66b.dir/testCXXCompiler.cxx.o
+        /mingw64/bin/c++.exe    -o CMakeFiles/cmTC_8b66b.dir/testCXXCompiler.cxx.o -c /c/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/CMakeScratch/TryCompile-Wg34Tg/testCXXCompiler.cxx
+        Linking CXX executable cmTC_8b66b.exe
+        /usr/bin/cmake.exe -E cmake_link_script CMakeFiles/cmTC_8b66b.dir/link.txt --verbose=1
+        /mingw64/bin/c++.exe -Wl,--enable-auto-import  CMakeFiles/cmTC_8b66b.dir/testCXXCompiler.cxx.o -o cmTC_8b66b.exe -Wl,--out-implib,libcmTC_8b66b.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        make[1]: Leaving directory 'C:/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/CMakeScratch/TryCompile-Wg34Tg'
+        
+      exitCode: 0
+...

@@ -1,0 +1,4 @@
+/c/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/MyProject.dir
+/c/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/TestFoo.dir
+/c/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/edit_cache.dir
+/c/Users/MartinezR/SemanticAlgo/MyProject/build/CMakeFiles/rebuild_cache.dir
